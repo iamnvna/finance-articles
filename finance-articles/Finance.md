@@ -160,3 +160,4 @@ The use of coins as a means of representing money began in the years between 600
 
 ## Further Reading
 - [History of Money](History%20of%20Money.md)
+- [Investment](Investment.md)
