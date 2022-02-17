@@ -31,6 +31,8 @@ Inter-institutional trade and investment, and fund-management at this scale, is 
 As above, finance comprises, broadly, the three areas of personal finance, corporate finance, and public finance. Although they are numerous, other areas, such as investments, risk management, quantitative finance / financial engineering, and development finance typically overlap these; likewise, specific arrangements such as public–private partnerships.
 
 ### Personal finance
+- [Read Full Article](Personal%20Finance.md)
+
 Personal finance is defined as "the mindful planning of monetary spending and saving, while also considering the possibility of future risk". Personal finance may involve paying for education, financing durable goods such as real estate and cars, buying insurance, investing, and saving for retirement. Personal finance may also involve paying for a loan or other debt obligations. The main areas of personal finance are considered to be income, spending, saving, investing, and protection. The following steps, as outlined by the Financial Planning Standards Board, suggest that an individual will understand a potentially secure personal finance plan after:
 
 - Purchasing insurance to ensure protection against unforeseen personal events;
@@ -42,6 +44,8 @@ Personal finance is defined as "the mindful planning of monetary spending and sa
 - Preparing for retirement or other long term expenses.
   
 ### Corporate finance
+* [Read Full Article](Corporate%20Finance.md)
+
 Corporate finance deals with the actions that managers take to increase the value of the firm to the shareholders, the sources of funding and the capital structure of corporations, and the tools and analysis used to allocate financial resources. While corporate finance is in principle different from managerial finance, which studies the financial management of all firms rather than corporations alone, the concepts are applicable to the financial problems of all firms, and this area is then often referred to as “business finance”.
 
 Typically "corporate finance" relates to the long term objective of maximizing the value of the entity's assets, its stock, and its return to shareholders, while also balancing risk and profitability. This entails three primary areas:
@@ -54,6 +58,8 @@ The latter creates the link with investment banking and securities trading, as a
 Financial managers - i.e. as opposed to corporate financiers - focus more on the short term elements of profitability, cash flow, and "working capital management" (inventory, credit and debtors), ensuring that the firm can safely and profitably carry out its financial and operational objectives; i.e. that it: (1) can service both maturing short-term debt repayments, and scheduled long-term debt payments , and (2) has sufficient cash flow for ongoing and upcoming operational expenses. See Financial management § Role and Financial analyst § Corporate and other.
 
 ### Public finance
+* [Read Full Article](Public%20Finance.md)
+
 Public finance describes finance as related to sovereign states, sub-national entities, and related public entities or agencies. It generally encompasses a long-term strategic perspective regarding investment decisions that affect public entities.[14] These long-term strategic periods typically encompass five or more years. Public finance is primarily concerned with:
 - Identification of required expenditures of a public sector entity;
 - Source(s) of that entity's revenue;
@@ -62,11 +68,13 @@ Public finance describes finance as related to sovereign states, sub-national en
 Central banks, such as the Federal Reserve System banks in the United States and the Bank of England in the United Kingdom, are strong players in public finance. They act as lenders of last resort as well as strong influences on monetary and credit conditions in the economy.
 
 ### Investment management
+* [Read Full Article](Investment%20Management.md)
+
 Investment management is the professional asset management of various securities - typically shares and bonds, but also other assets, such as real estate and commodities - in order to meet specified investment goals for the benefit of investors.
 
 As above, investors may be institutions, such as insurance companies, pension funds, corporations, charities, educational establishments, or private investors, either directly via investment contracts or, more commonly, via collective investment schemes like mutual funds, exchange-traded funds, or REITs.
 
-At the heart of investment management[2] is asset allocation - diversifying the exposure among these asset classes, and among individual securities within each asset class - as appropriate to the client's investment policy, in turn, a function of risk profile, investment goals, and investment horizon (see Investor profile). Here:
+At the heart of investment management is asset allocation - diversifying the exposure among these asset classes, and among individual securities within each asset class - as appropriate to the client's investment policy, in turn, a function of risk profile, investment goals, and investment horizon (see Investor profile). Here:
 - Portfolio optimization is the process of selecting the best portfolio given the client's objectives and constraints.
 - Fundamental analysis is the approach typically applied in valuing and evaluating the individual securities.
 
@@ -87,6 +95,8 @@ For banks and other wholesale institutions, risk management focuses on hedging t
 Investment managers will apply various risk management techniques to their portfolios: these may relate to the portfolio as a whole or to individual stocks; bond portfolios are typically managed via cash flow matching or immunization. Re derivative portfolios (and positions), "the Greeks" is a vital risk management tool - it measures sensitivity to a small change in a given underlying parameter so that the portfolio can be rebalanced accordingly by including additional derivatives with offsetting characteristics.
 
 ### Quantitative finance
+- [Read Full Article](Quantitative%20Finance.md)
+
 Quantitative finance - also referred to as "mathematical finance" - includes those finance activities where a sophisticated mathematical model is required, and thus overlaps several of the above. As a specialized practice area, quantitative finance comprises primarily three sub-disciplines; the underlying theory and techniques are discussed in the next section:
 1. Quantitative finance is often synonymous with financial engineering. This area generally underpins a bank's customer-driven derivatives business — delivering bespoke OTC-contracts and "exotics", and designing the various structured products mentioned — and encompasses modeling and programming in support of the initial trade, and its subsequent hedging and management.
 2. Quantitative finance also significantly overlaps financial risk management in banking, as mentioned, both as regards this hedging, and as regards compliance with regulations and the Basel capital / liquidity requirements.
