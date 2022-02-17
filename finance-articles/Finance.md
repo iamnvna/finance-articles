@@ -10,33 +10,16 @@ Although they are closely related, the disciplines of economics and finance are 
 
 Given its wide scope, finance is studied in several academic disciplines, and, correspondingly, there are several related degrees and professional certifications that can lead to the field.
 
-## Contents
-[[1	The financial system]]
-2	Areas of finance
-2.1	Personal finance
-2.2	Corporate finance
-2.3	Public finance
-2.4	Investment management
-2.5	Risk management
-2.6	Quantitative finance
-3	Financial theory
-3.1	Managerial finance
-3.2	Financial economics
-3.3	Financial mathematics
-3.4	Experimental finance
-3.5	Behavioral finance
-4	History of finance
-5	Image gallery
-6	See also
-7	Notes
-8	References
-9	Further reading
-10	External links
-
 ## The financial system
+- [Read Full Article](The%20financial%20system.md)
+  
 As above, the financial system consists of the flows of capital that take place between individuals (personal finance), governments (public finance), and businesses (corporate finance). "Finance" thus studies the process of channeling money from savers and investors to entities that need it. Savers and investors have money available which could earn interest or dividends if put to productive use. Individuals, companies and governments must obtain money from some external source, such as loans or credit, when they lack sufficient funds to operate.
 
-In general, an entity whose income exceeds its expenditure can lend or invest the excess, intending to earn a fair return. Correspondingly, an entity where income is less than expenditure can raise capital usually in one of two ways: (i) by borrowing in the form of a loan (private individuals), or by selling government or corporate bonds; (ii) by a corporation selling equity, also called stock or shares (which may take various forms: preferred stock or common stock). The owners of both bonds and stock may be institutional investors – financial institutions such as investment banks and pension funds – or private individuals, called private investors or retail investors.
+In general, an entity whose income exceeds its expenditure can lend or invest the excess, intending to earn a fair return. Correspondingly, an entity where income is less than expenditure can raise capital usually in one of two ways:
+1. by borrowing in the form of a loan (private individuals), or by selling government or corporate bonds;
+2. by a corporation selling equity, also called stock or shares (which may take various forms: preferred stock or common stock).
+
+The owners of both bonds and stock may be institutional investors – financial institutions such as investment banks and pension funds – or private individuals, called private investors or retail investors.
 
 The lending is often indirect, through a financial intermediary such as a bank, or via the purchase of notes or bonds (corporate bonds, government bonds, or mutual bonds) in the bond market. The lender receives interest, the borrower pays a higher interest than the lender receives, and the financial intermediary earns the difference for arranging the loan. A bank aggregates the activities of many borrowers and lenders. A bank accepts deposits from lenders, on which it pays interest. The bank then lends these deposits to borrowers. Banks allow borrowers and lenders, of different sizes, to coordinate their activity.
 
@@ -126,7 +109,7 @@ The discipline has two main areas of focus: asset pricing and (theoretical) corp
 Financial mathematics is a field of applied mathematics concerned with financial markets. As above, in terms of practice, the field is referred to as quantitative finance and / or mathematical finance, and comprises primarily the three areas discussed.
 Re theory, the field is largely focused on the modeling of derivatives (with much focus on interest rate- and credit risk modeling), although other important subfields include insurance mathematics and quantitative portfolio management. Relatedly, the techniques developed are applied to pricing and hedging a wide range of asset-backed, government, and corporate-securities. The main mathematical tools and techniques are:
 - for derivatives,  Itô's stochastic calculus, simulation, and partial differential equations
-- for risk management,[22] value at risk, stress testing, "sensitivities" analysis (applying the "greeks"), and xVA
+- for risk management, value at risk, stress testing, "sensitivities" analysis (applying the "greeks"), and xVA
 - in both of these areas, and particularly for portfolio problems, quants employ sophisticated optimization techniques
 Mathematically, these separate into two analytic branches: derivatives pricing uses risk-neutral probability (or arbitrage-pricing probability), denoted by "Q"; while risk and portfolio management generally use actual (or actuarial or physical) probability, denoted by "P".
 
