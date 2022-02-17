@@ -157,3 +157,6 @@ Jews were not allowed to take interest from other Jews, but they were allowed to
 By 1200 BC, cowrie shells were used as a form of money in China. By 640 BC, the Lydians had started to use coin money. Lydia was the first place where permanent retail shops opened. (Herodotus mentions the use of crude coins in Lydia in an earlier date, around 687 BC.)
 
 The use of coins as a means of representing money began in the years between 600 and 570 BCE. Cities under the Greek empire, such as Aegina (595 BCE), Athens (575 BCE), and Corinth (570 BCE), started to mint their own coins. In the Roman Republic, interest was outlawed altogether by the Lex Genucia reforms. Under Julius Caesar, a ceiling on interest rates of 12% was set, and later under Justinian it was lowered even further to between 4% and 8%.
+
+## Further Reading
+- [History of Money](History%20of%20Money.md)
