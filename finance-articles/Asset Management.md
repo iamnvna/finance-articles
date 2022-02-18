@@ -10,7 +10,7 @@ The International Standard, ISO 55000, provides an introduction and requirements
 
 ## By industry
 ### **Financial asset management**
-The most common usage of the term "asset manager" refers to investment management, the sector of the financial services industry that manages investment funds and segregated client accounts. Asset management is part of a financial company that employs experts who manage money and handle the investments of clients. This is done either actively or passively.
+The most common usage of the term "asset manager" refers to [investment management](Investment%20Management.md), the sector of the [financial services](Financial%20Services.md) industry that manages investment funds and segregated client accounts. Asset management is part of a financial company that employs experts who manage money and handle the investments of clients. This is done either actively or passively.
 
 - Active asset management: this involves active tasks such as studying the client's assets to planning and looking after the investments, all things are looked after by the asset managers and recommendations are provided based on the financial health of each client. Active asset management comes at a higher price to investors because more work is involved.
 - Passive asset management: assets are allocated to mirror a market or a sector index. Unlike active asset management, passive asset management is a lot less laborious. It is also less tailored, requires less looking after and consequently is cheaper for investors.

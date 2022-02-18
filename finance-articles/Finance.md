@@ -1,6 +1,6 @@
 # Finance
 
-**Finance** is a term for the management, creation, and study of money and investments Specifically, it deals with the questions of how an individual, company or government acquires money – called capital in the context of a business – and how they spend or invest that money. Finance is then often divided into the following broad categories: personal finance, corporate finance, and public finance.
+**Finance** is a term for the management, creation, and study of money and investments Specifically, it deals with the questions of how an individual, company or government acquires money – called capital in the context of a business – and how they spend or invest that money. Finance is then often divided into the following broad categories: [[personal finance]], [[corporate finance]], and [[public finance]].
 
 At the same time, and correspondingly, finance is about the overall "system" i.e., the financial markets that allow the flow of money, via investments and other financial instruments, between and within these areas; this "flow" is facilitated by the financial services sector. Finance therefore refers to the study of the securities markets, including derivatives, and the institutions that serve as intermediaries to those markets, thus enabling the flow of money through the economy.
 
@@ -60,7 +60,7 @@ Financial managers - i.e. as opposed to corporate financiers - focus more on the
 ### **Public finance**
 * [Read Full Article](Public%20Finance.md)
 
-Public finance describes finance as related to sovereign states, sub-national entities, and related public entities or agencies. It generally encompasses a long-term strategic perspective regarding investment decisions that affect public entities.[14] These long-term strategic periods typically encompass five or more years. Public finance is primarily concerned with:
+Public finance describes finance as related to sovereign states, sub-national entities, and related public entities or agencies. It generally encompasses a long-term strategic perspective regarding investment decisions that affect public entities. These long-term strategic periods typically encompass five or more years. Public finance is primarily concerned with:
 - Identification of required expenditures of a public sector entity;
 - Source(s) of that entity's revenue;
 - The budgeting process;
@@ -75,7 +75,7 @@ Investment management is the professional asset management of various securities
 As above, investors may be institutions, such as insurance companies, pension funds, corporations, charities, educational establishments, or private investors, either directly via investment contracts or, more commonly, via collective investment schemes like mutual funds, exchange-traded funds, or REITs.
 
 At the heart of investment management is asset allocation - diversifying the exposure among these asset classes, and among individual securities within each asset class - as appropriate to the client's investment policy, in turn, a function of risk profile, investment goals, and investment horizon (see Investor profile). Here:
-- Portfolio optimization is the process of selecting the best portfolio given the client's objectives and constraints.
+- [[Portfolio]] optimization is the process of selecting the best portfolio given the client's objectives and constraints.
 - Fundamental analysis is the approach typically applied in valuing and evaluating the individual securities.
 
 Overlaid is the portfolio manager's investment style - broadly, active vs passive , value vs growth, and small cap vs. large cap - and investment strategy. In a well-diversified portfolio, achieved investment performance will, in general, largely be a function of the asset mix selected, while the individual securities are less impactful. The specific approach or philosophy will also be significant, depending on the extent to which it is complementary with the market cycle.
@@ -103,7 +103,7 @@ Quantitative finance - also referred to as "mathematical finance" - includes tho
 3. "Quants" are also responsible for building and deploying the investment strategies at the quantitative funds mentioned; they are also involved in quantitative investing more generally, in areas such as trading strategy formulation, and in automated trading, high-frequency trading, algorithmic trading, and program trading.
    
 ## Financial theory
-Financial theory is studied and developed within the disciplines of management, (financial) economics, accountancy and applied mathematics. Abstractly,[2] finance is concerned with the investment and deployment of assets and liabilities over "space and time"; i.e., it is about performing valuation and asset allocation today, based on the risk and uncertainty of future outcomes while appropriately incorporating the time value of money. Determining the present value of these future values, "discounting", must be at the risk-appropriate discount rate, in turn, a major focus of finance-theory.[3] Since the debate as to whether finance is an art or a science is still open, there have been recent efforts to organize a list of unsolved problems in finance.
+Financial theory is studied and developed within the disciplines of management, (financial) economics, accountancy and applied mathematics. Abstractly, finance is concerned with the investment and deployment of assets and liabilities over "space and time"; i.e., it is about performing valuation and asset allocation today, based on the risk and uncertainty of future outcomes while appropriately incorporating the time value of money. Determining the present value of these future values, "discounting", must be at the risk-appropriate discount rate, in turn, a major focus of finance-theory. Since the debate as to whether finance is an art or a science is still open, there have been recent efforts to organize a list of unsolved problems in finance.
 
 ### **Managerial finance**
 - [Read Full Article](Managerial%20Finance.md)
@@ -159,5 +159,5 @@ By 1200 BC, cowrie shells were used as a form of money in China. By 640 BC, the 
 The use of coins as a means of representing money began in the years between 600 and 570 BCE. Cities under the Greek empire, such as Aegina (595 BCE), Athens (575 BCE), and Corinth (570 BCE), started to mint their own coins. In the Roman Republic, interest was outlawed altogether by the Lex Genucia reforms. Under Julius Caesar, a ceiling on interest rates of 12% was set, and later under Justinian it was lowered even further to between 4% and 8%.
 
 ## Further Reading
-- [History of Money](History%20of%20Money.md)
-- [Investment](Investment.md)
+- [[History of Money]]
+- [[Investment]]

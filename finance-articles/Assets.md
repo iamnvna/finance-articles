@@ -26,11 +26,11 @@ There is a growing analytical interest in assets and asset forms in other social
 ### **Accounting**
 In the financial accounting sense of the term, it is not necessary to be able to legally enforce the asset's benefit for qualifying a resource as being an asset, provided the entity can control its use by other means.
 
-The accounting equation is the mathematical structure of the balance sheet. It relates assets, liabilities, and owner's equity:
+The accounting equation is the mathematical structure of the balance sheet. It relates [assets], [liabilities](Liability.md), and owner's [equity](Equity%20(Finance).md):
 
-    Assets = Liabilities + Capital (which for a corporation equals owner's equity)
-    Liabilities = Assets − Capital
-    Equity = Assets − Liabilities
+    Assets = liabilities + Capital (which for a corporation equals owner's equity)
+    liabilities = Assets − Capital
+    Equity = Assets − liabilities
 
 Assets are listed on the balance sheet. On a company's balance sheet, certain divisions are required by generally accepted accounting principles (GAAP), which vary from country to country. Assets can be divided into current assets and fixed assets, often with further subdivisions such as cash, receivables, and inventory.
 
@@ -46,7 +46,7 @@ Current assets are cash and others that are expected to be converted to cash or 
 
 Marketable securities: securities that can be converted into cash quickly at a reasonable price
 
-The phrase net current assets (also called working capital) is often used and refers to the total of current assets less the total of current liabilities.
+The phrase net current assets (also called working capital) is often used and refers to the total of current assets less the total of current [liabilities](Liability.md).
 
 ### **Long-term investments**
 Often referred to simply as "investments". Long-term investments are to be held for many years and are not intended to be disposed of in the near future. This group usually consists of three types of investments :
@@ -75,3 +75,7 @@ Tangible assets such as art, furniture, stamps, gold, wine, toys and books are r
 
 ### **Wasting asset**
 A wasting asset is an asset that irreversibly declines in value over time. This could include vehicles and machinery, and in financial markets, options contracts that continually lose time value after purchase. Mines and quarries in use are wasting assets. An asset classified as wasting may be treated differently for tax and other purposes than one that does not lose value; this may be accounted for by applying depreciation.
+
+## Further Reading
+- [Liability](Liability.md)
+- [[Asset Management]]
