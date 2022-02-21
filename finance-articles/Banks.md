@@ -12,9 +12,9 @@ Banks are financial intermediaries that lend money to borrowers to generate reve
 ## Non-bank financial institutions
 Non-bank financial institutions facilitate financial services like investment, risk pooling, and market brokering. They generally do not have full banking licenses. Non-bank financial institutions include:
 
-    - Finance and loan companies
-    - Insurance companies
-    - Mutual funds
+- Finance and [[loan]] companies
+- Insurance companies
+- Mutual funds
 
 ## Financial markets
 Financial markets are markets in which securities, commodities, and fungible items are traded at prices representing supply and demand. The term "market" typically means the institution of aggregate exchanges of possible buyers and sellers of such items.

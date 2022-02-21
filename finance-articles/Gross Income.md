@@ -16,14 +16,14 @@ The various deductions (and their corresponding metrics) leading from net sales 
 (Note: Cost of goods sold is calculated differently for a merchandising business than for a manufacturer.)
 
 ## United States
-In United States [income tax](Income%20Tax.md) law, gross income serves as the starting point for determining Federal and state [income tax](Income%20Tax.md) of individuals, corporations, estates and trusts, whether resident or non-resident.
+In United States [[income tax]] law, gross income serves as the starting point for determining Federal and state [[income tax]] of individuals, corporations, estates and trusts, whether resident or non-resident.
 
 Under the U.S. Internal Revenue Code, "Except as otherwise provided" by law, gross income means "all income from whatever source derived," and is not limited to cash received.Federal tax regulations interpret this general rule. The amount of income recognized is generally the value received or the value which the taxpayer has a right to receive. Certain types of income are specifically excluded from gross income for tax purposes.
 
 The time at which gross income becomes taxable is determined under Federal tax rules, which differ in some cases from financial accounting rules.
 
 ### **What is income**
-Individuals, corporations, members of partnerships, estates, trusts, and their beneficiaries ("taxpayers") are subject to [income tax](Income%20Tax.md) in the United States. The amount on which tax is computed, taxable income, equals gross income less allowable tax deductions.
+Individuals, corporations, members of partnerships, estates, trusts, and their beneficiaries ("taxpayers") are subject to [[income tax]] in the United States. The amount on which tax is computed, taxable income, equals gross income less allowable tax deductions.
 
 The Internal Revenue Code gives specific examples. The examples are not all inclusive. The term "income" is not defined in the statute or regulations. An early Supreme Court case stated, "Income may be defined as the gain derived from capital, from labor, or from both combined, provided it is understood to include profit gained through a sale or conversion of capital assets." The Court also held that the amount of gross income on disposition of property is the proceeds less the basis (usually, the acquisition cost) of the property.
 
@@ -39,7 +39,7 @@ Following are some of the things that are included in income:
 - Alimony and separate maintenance payments.
 - Pensions, annuities, and income from life insurance or endowment contracts.
 - Distributive share of partnership income or pro rata share of income of an S corporation.
-- State and local [income tax](Income%20Tax.md) refunds, to the extent previously deducted. Note that these are generally excluded from gross income for state and local [income tax](Income%20Tax.md) purposes.
+- State and local [[income tax]] refunds, to the extent previously deducted. Note that these are generally excluded from gross income for state and local [[income tax]] purposes.
 - Any other income from whatever source. Even income from crimes is taxable and must be reported, as failure to do so is a crime in itself.
 
 Gifts and inheritances are not considered income to the recipient under U.S. law. However, gift or estate tax may be imposed on the donor or the estate of the decedent.
@@ -62,7 +62,7 @@ The value of goods or services received is included in income in barter transact
 ### **Exclusions from gross income: U.S. Federal income tax law**
 The courts have given very broad meaning to the phrase "all income from whatever source derived," interpreting it to include all income unless a specific exclusion applies. Certain types of income are specifically excluded from gross income. These may be referred to as exempt income, exclusions, or tax exemptions. Among the more common excluded items are the following:
 - 2014-7 Certain Medicaid Waiver Payments May Be Excludable From Income.
-- Tax exempt interest. For Federal [income tax](Income%20Tax.md), interest on state and municipal bonds is excluded from gross income. Some states provide an exemption from state [income tax](Income%20Tax.md) for certain bond interest.
+- Tax exempt interest. For Federal [[income tax]], interest on state and municipal bonds is excluded from gross income. Some states provide an exemption from state [[income tax]] for certain bond interest.
 - Some Social Security benefits. The amount exempt has varied by year. The exemption is phased out for individuals with gross income above certain amounts.
 - Gifts and inheritances However, a "gift" from an employer to an employee is considered compensation, and is generally included in gross income.
 - Life insurance proceeds received by reason of the death of the insured person.
@@ -85,7 +85,7 @@ There are numerous other specific exclusions. Restrictions and specific definiti
 Some state rules provide for different inclusions and exclusions.
 
 ### **Source of income**
-United States persons (including citizens, residents (whether U.S. citizens or aliens residing in the United States), and U.S. corporations) are generally subject to U.S. federal [income tax](Income%20Tax.md) on their worldwide income. Nonresident aliens are subject to U.S. federal [income tax](Income%20Tax.md) only on income from a U.S. business and certain income from United States sources. Source of income is determined based on the type of income. The source of compensation income is the place where the services giving rise to the income were performed. The source of certain income, such as dividends and interest, is based on location of the residence of the payor. The source of income from property is based on the location where the property is used. Significant additional rules apply.
+United States persons (including citizens, residents (whether U.S. citizens or aliens residing in the United States), and U.S. corporations) are generally subject to U.S. federal [[income tax]] on their worldwide income. Nonresident aliens are subject to U.S. federal [[income tax]] only on income from a U.S. business and certain income from United States sources. Source of income is determined based on the type of income. The source of compensation income is the place where the services giving rise to the income were performed. The source of certain income, such as dividends and interest, is based on location of the residence of the payor. The source of income from property is based on the location where the property is used. Significant additional rules apply.
 
 #### **Taxation of nonresident aliens**
-Nonresident aliens are subject to regular [income tax](Income%20Tax.md) on income from a U.S. business or for services performed in the United States. Nonresident aliens are subject to a flat rate of U.S. [income tax](Income%20Tax.md) on certain enumerated types of U.S. source income, generally collected as a withholding tax. The rate of tax is 30% of the gross income, unless reduced by a tax treaty. Nonresident aliens are subject to U.S. federal [income tax](Income%20Tax.md) on some, but not all capital gains. Wages may be treated as effectively connected income, or may be subject to the flat 30% tax, depending on the facts and circumstances.
+Nonresident aliens are subject to regular [[income tax]] on income from a U.S. business or for services performed in the United States. Nonresident aliens are subject to a flat rate of U.S. [[income tax]] on certain enumerated types of U.S. source income, generally collected as a withholding tax. The rate of tax is 30% of the gross income, unless reduced by a tax treaty. Nonresident aliens are subject to U.S. federal [[income tax]] on some, but not all capital gains. Wages may be treated as effectively connected income, or may be subject to the flat 30% tax, depending on the facts and circumstances.

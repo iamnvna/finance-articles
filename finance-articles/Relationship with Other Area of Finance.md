@@ -1,7 +1,7 @@
 # Relationship With Other Areas of Finance
 
 # Investment banking
-Use of the term "corporate finance" varies considerably across the world. In the United States it is used, as above, to describe activities, analytical methods and techniques that deal with many aspects of a company's finances and capital. In the United Kingdom and Commonwealth countries, the terms "corporate finance" and "corporate financier" tend to be associated with investment banking – i.e. with transactions in which capital is raised for the corporation.
+Use of the term "[[corporate finance]]" varies considerably across the world. In the United States it is used, as above, to describe activities, analytical methods and techniques that deal with many aspects of a company's finances and capital. In the United Kingdom and Commonwealth countries, the terms "corporate finance" and "corporate financier" tend to be associated with investment banking – i.e. with transactions in which capital is raised for the corporation.
 
 # Financial risk management
 ## Concerns

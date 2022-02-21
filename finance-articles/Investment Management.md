@@ -110,3 +110,7 @@ There is evidence that any particular qualification enhances the most desirable 
 - [Read Full Article](Comparison%20to%20Wealth%20Managment.md)
 
 Wealth management, where financial advisors perform financial planning for clients, has traditionally served as an intermediary to investment managers in the United States and less so in Europe. However, as of 2019, the lines were becoming blurred.
+
+## Further Reading
+- [[Education or Certification]]
+- [[Comparison to Wealth Managment]]

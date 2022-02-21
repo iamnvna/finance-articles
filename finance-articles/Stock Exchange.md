@@ -1,6 +1,6 @@
 # Stock Exchange
 
-A **stock exchange**, **securities exchange**, or **bourse**, is an exchange where stockbrokers and traders can buy and sell securities, such as shares of [stock](Stock.md), bonds, and other financial instruments. Stock exchanges may also provide facilities for the issue and redemption of such securities and instruments and capital events including the payment of income and dividends. Securities traded on a stock exchange include stock issued by listed companies, unit trusts, derivatives, pooled investment products and bonds. Stock exchanges often function as "continuous auction" markets with buyers and sellers consummating transactions via open outcry at a central location such as the floor of the exchange or by using an electronic trading platform.
+A **stock exchange**, **securities exchange**, or **bourse**, is an exchange where stockbrokers and traders can buy and sell securities, such as shares of [[]stock]], bonds, and other financial instruments. Stock exchanges may also provide facilities for the issue and redemption of such securities and instruments and capital events including the payment of income and dividends. Securities traded on a stock exchange include stock issued by listed companies, unit trusts, derivatives, pooled investment products and bonds. Stock exchanges often function as "continuous auction" markets with buyers and sellers consummating transactions via open outcry at a central location such as the floor of the exchange or by using an electronic trading platform.
 
 To be able to trade a security on a certain stock exchange, the security must be listed there. Usually, there is a central location at least for record keeping, but trade is increasingly less linked to a physical place, as modern markets use electronic communication networks, which give them advantages of increased speed and reduced cost of transactions. Trade on an exchange is restricted to brokers who are members of the exchange. In recent years, various other trading venues, such as electronic communication networks, alternative trading systems and "dark pools" have taken much of the trading activity away from traditional stock exchanges.
 
@@ -98,3 +98,6 @@ In 2018, there were 15 licensed stock exchanges in the United States, of which 1
 
 ## Other types of exchanges
 In the 19th century, exchanges were opened to trade forward contracts on commodities. Exchange traded forward contracts are called futures contracts. These commodity markets later started offering future contracts on other products, such as interest rates and shares, as well as options contracts. They are now generally known as futures exchanges.
+
+## Further Reading 
+- [[Trade Exchange]]

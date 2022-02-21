@@ -80,3 +80,4 @@ A wasting asset is an asset that irreversibly declines in value over time. This 
 - [Liability](Liability.md)
 - [[Asset Management]]
 - [[Capital Appreciation]]
+- [[Equity (Finance)]]

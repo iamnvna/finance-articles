@@ -1,6 +1,6 @@
 # Loan
 
-In [finance](Finance.md), a **loan** is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations etc. The recipient (i.e., the borrower) incurs a debt and is usually liable to pay interest on that debt until it is repaid as well as to repay the principal amount borrowed.
+In [[finance]], a **loan** is the lending of money by one or more individuals, organizations, or other entities to other individuals, organizations etc. The recipient (i.e., the borrower) incurs a debt and is usually liable to pay interest on that debt until it is repaid as well as to repay the principal amount borrowed.
 
 The document evidencing the debt (e.g., a promissory note) will normally specify, among other things, the principal amount of money borrowed, the interest rate the lender is charging, and the date of repayment. A loan entails the reallocation of the subject asset(s) for a period of time, between the lender and the borrower.
 
@@ -10,13 +10,13 @@ Acting as a provider of loans is one of the main activities of financial institu
 
 ## Personal loan
 ### **Secured**
-A secured loan is a form of debt in which the borrower pledges some asset (i.e., a car, a house) as collateral.
+A secured loan is a form of debt in which the borrower pledges some asset (i.e., a car, a house) as [[collateral (finance)]].
 
 A mortgage loan is a very common type of loan, used by many individuals to purchase residential or commercial property. The lender, usually a financial institution, is given security – a lien on the title to the property – until the mortgage is paid off in full. In the case of home loans, if the borrower defaults on the loan, the bank would have the legal right to repossess the house and sell it, to recover sums owing to it.
 
 Similarly, a loan taken out to buy a car may be secured by the car. The duration of the loan is much shorter – often corresponding to the useful life of the car. There are two types of auto loans, direct and indirect. In a direct auto loan, a bank lends the money directly to a consumer. In an indirect auto loan, a car dealership (or a connected company) acts as an intermediary between the bank or financial institution and the consumer.
 
-Other forms of secured loans include loans against securities – such as shares, mutual funds, bonds, etc. This particular instrument issues customers a line of credit based on the quality of the securities pledged. Gold loans are issued to customers after evaluating the quantity and quality of gold in the items pledged. Corporate entities can also take out secured lending by pledging the company's assets, including the company itself. The interest rates for secured loans are usually lower than those of unsecured loans. Usually, the lending institution employs people (on a roll or on a contract basis) to evaluate the quality of pledged collateral before sanctioning the loan.
+Other forms of secured loans include loans against securities – such as shares, mutual funds, bonds, etc. This particular instrument issues customers a line of credit based on the quality of the securities pledged. Gold loans are issued to customers after evaluating the quantity and quality of gold in the items pledged. Corporate entities can also take out secured lending by pledging the company's assets, including the company itself. The interest rates for secured loans are usually lower than those of unsecured loans. Usually, the lending institution employs people (on a roll or on a contract basis) to evaluate the quality of pledged [[collateral (finance)]] before sanctioning the loan.
 
 ### **Unsecured**
 Unsecured loans are monetary loans that are not secured against the borrower's assets. These may be available from financial institutions under many different guises or marketing packages:
@@ -70,7 +70,7 @@ Most of the basic rules governing how loans are handled for tax purposes in the 
 6. Interest paid to the lender may be deductible by the borrower.  In general, interest paid in connection with the borrower's business activity is deductible, while interest paid on personal loans are not deductible.  The major exception here is interest paid on a home mortgage. 
 
 ### **Income from discharge of indebtedness**
-Although a loan does not start out as income to the borrower, it becomes income to the borrower if the borrower is discharged of indebtedness. Thus, if a debt is discharged, then the borrower essentially has received income equal to the amount of the indebtedness. The Internal Revenue Code lists "Income from Discharge of Indebtedness" in Section 61(a)(12) as a source of [gross income](Gross%20Income.md).
+Although a loan does not start out as income to the borrower, it becomes income to the borrower if the borrower is discharged of indebtedness. Thus, if a debt is discharged, then the borrower essentially has received income equal to the amount of the indebtedness. The Internal Revenue Code lists "Income from Discharge of Indebtedness" in Section 61(a)(12) as a source of [[gross income]].
 
 Example: X owes Y $50,000. If Y discharges the indebtedness, then X no longer owes Y $50,000. For purposes of calculating income, this is treated the same way as if Y gave X $50,000.
 
