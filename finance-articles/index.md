@@ -52,7 +52,7 @@
 49. [[Allowance]]
 50. [[Trade Exchange]]
 
-**Articles from sadokjbenyeni**
+### *Articles from sadokjbenyeni*
 1. [[Areas of Finance]]
 1.  [[Areas of Focus]]
 2.  [[Banks]]
