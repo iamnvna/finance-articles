@@ -21,14 +21,12 @@ Preferred stock is a special class of shares which may have any combination of f
         - Callability, at the option of the corporation
         - Convertability to common stocks
         - Nonvoting   
-        - 
 ## Capitalization structure
-
 As mentioned, the financing mix will impact the valuation of the firm: there are then two interrelated considerations here:
 
-        - Management must identify the "optimal mix" of financing but must also take other factors into account. Financing a project through debt results in a liability or obligation that must be serviced, thus entailing cash flow implications independent of the project's degree of success. Equity financing is less risky with respect to cash flow commitments, but results in a dilution of share ownership, control and earnings. The cost of equity (see CAPM and APT) is also typically higher than the cost of debt and so equity financing may result in an increased hurdle rate which may offset any reduction in cash flow risk.
-        - Management must attempt to match the long-term financing mix to the assets being financed as closely as possible, in terms of both timing and cash flows. Managing any potential asset liability mismatch or duration gap entails matching the assets and liabilities respectively according to maturity pattern ("cashflow matching") or duration ("immunization"); managing this relationship in the short-term is a major function of working capital management. Other techniques, such as securitization, or hedging using interest rate- or credit derivatives, are also common.
-        - 
+- Management must identify the "optimal mix" of financing but must also take other factors into account. Financing a project through debt results in a liability or obligation that must be serviced, thus entailing cash flow implications independent of the project's degree of success. Equity financing is less risky with respect to cash flow commitments, but results in a dilution of share ownership, control and earnings. The cost of equity (see CAPM and APT) is also typically higher than the cost of debt and so equity financing may result in an increased hurdle rate which may offset any reduction in cash flow risk.
+- Management must attempt to match the long-term financing mix to the assets being financed as closely as possible, in terms of both timing and cash flows. Managing any potential asset liability mismatch or duration gap entails matching the assets and liabilities respectively according to maturity pattern ("cashflow matching") or duration ("immunization"); managing this relationship in the short-term is a major function of working capital management. Other techniques, such as securitization, or hedging using interest rate- or credit derivatives, are also common.
+
 ## Related considerations
 Much of the theory here, falls under the umbrella of the Trade-Off Theory in which firms are assumed to trade-off the tax benefits of debt with the bankruptcy costs of debt when choosing how to allocate the company's resources. However economists have developed a set of alternative theories about how managers allocate a corporation's finances.
 

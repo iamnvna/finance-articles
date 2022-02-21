@@ -1,4 +1,4 @@
-# Performance Measurement
+# Investment Management (Performance Measurement)
 Fund performance is often thought to be the acid test of fund management, and in the institutional context, accurate measurement is a necessity. For that purpose, institutions measure the performance of each fund under their management, and performance is also measured by external firms that specialize in performance measurement. The leading performance measurement firms compile aggregate industry data, showing how funds in general performed against given performance indices and peer groups over various time periods.
 
 In a typical case, the calculation would be made every quarter and would show a percentage change compared with the prior quarter. This figure would be compared with other similar funds managed within the institution, with performance data for peer group funds, and with relevant indices or tailor-made performance benchmarks where appropriate. The specialist performance measurement firms calculate quartile and decile data and close attention would be paid to the ranking of any fund.

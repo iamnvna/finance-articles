@@ -3,8 +3,8 @@
 The financial system consists of the flows of capital that take place between individuals (personal finance), governments (public finance), and businesses (corporate finance). "Finance" thus studies the process of channeling money from savers and investors to entities that need it. Savers and investors have money available which could earn interest or dividends if put to productive use. Individuals, companies and governments must obtain money from some external source, such as loans or credit, when they lack sufficient funds to operate.
 
 In general, an entity whose income exceeds its expenditure can lend or invest the excess, intending to earn a fair return. Correspondingly, an entity where income is less than expenditure can raise capital usually in one of two ways: 
-    1. By borrowing in the form of a loan (private individuals), or by selling government or corporate bonds
-    2. By a corporation selling equity, also called stock or shares (which may take various forms: preferred stock or common stock). 
+1. By borrowing in the form of a loan (private individuals), or by selling government or corporate bonds
+2. By a corporation selling equity, also called stock or shares (which may take various forms: preferred stock or common stock). 
     
 The owners of both bonds and stock may be institutional investors – financial institutions such as investment banks and pension funds – or private individuals, called private investors or retail investors.
 

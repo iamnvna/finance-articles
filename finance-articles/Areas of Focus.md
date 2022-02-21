@@ -12,4 +12,4 @@
 10. **Education Planning**: With the growing interests on students' loan, having a proper financial plan in place is crucial. Parents often want to save for their kids but end up taking the wrong decisions, which affect the savings adversely. We often observe that, many parents give their kids expensive gifts, or unintentionally endanger the opportunity to obtain the much-needed grant. Instead, one should make their kids prepare for the future and support them financially in their education.
 
 
-- To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Personal_finance#Areas_of_focus)
+- To visit the original wikipedia page, [follow this link](https://en.wikipedia.org/wiki/Personal_finance#Areas_of_focus).

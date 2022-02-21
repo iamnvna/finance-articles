@@ -73,10 +73,9 @@ Quantitative finance includes those finance activities where a sophisticated mat
     3. "Quants" are also responsible for building and deploying the investment strategies at the quantitative funds mentioned; they are also involved in quantitative investing more generally, in areas such as trading strategy formulation, and in automated trading, high-frequency trading, algorithmic trading, and program trading.
 
 - [ ] to learn about personal finance, read [[Personal Finance]].
-- [ ] to check corporate finance, read [[areas_of_finance/corporate_finance/Corporate Finance]].
-- [ ] to get aquainted with public finance, read [[areas_of_finance/public_finance/Public Finance]].
+- [ ] to check corporate finance, read [[Corporate Finance]].
+- [ ] to get aquainted with public finance, read [[Public Finance]].
 - [ ] to discover investment management, read [[Investment Managment]].
-- [ ] to understand risk management, read [[Risk Managment]].
 - [ ] to comphrehend quantitative finance, read [[Quantitative Finance]].
 
-- To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Finance#Areas_of_finance)
+- To visit the original wikipedia page, [follow this link](https://en.wikipedia.org/wiki/Finance#Areas_of_finance).

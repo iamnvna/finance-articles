@@ -6,24 +6,21 @@ Macroeconomic data to support public finance economics are generally referred to
 The size of governments, their institutional composition and complexity, their ability to carry out large and sophisticated operations, and their impact on the other sectors of the economy warrant a well-articulated system to measure government economic operations.
 
 The GFSM 2001 addresses the institutional complexity of government by defining various levels of government. The main focus of the GFSM 2001 is the general government sector defined as the group of entities capable of implementing public policy through the provision of primarily non market goods and services and the redistribution of income and wealth, with both activities supported mainly by compulsory levies on other sectors. The GFSM 2001 disaggregates the general government into subsectors: central government, state government, and local government.
-![image] (../../attachments/corporate_finance/General_Gouverment.jpg)
 
  The concept of general government does not include public corporations. The general government plus the public corporations comprise the public sector.
-![image] (../../attachments/corporate_finance/Public_Sector.png)
 
 The general government sector of a nation includes all non-private sector institutions, organisations and activities. The general government sector, by convention, includes all the public corporations that are not able to cover at least 50% of their costs by sales, and, therefore, are considered non-market producers.
 
 In the European System of Accounts, the sector “general government” has been defined as containing:
-
 Therefore, the main functions of general government units are :
-    1. to organize or redirect the flows of money, goods and services, or other assets among corporations, among households, and between corporations and households; in the purpose of social justice, increased efficiency or other aims legitimized by the citizens.
-    2. to produce goods and services to satisfy households' needs or to collectively meet the needs of the whole community.
+1. to organize or redirect the flows of money, goods and services, or other assets among corporations, among households, and between corporations and households; in the purpose of social justice, increased efficiency or other aims legitimized by the citizens.
+2. to produce goods and services to satisfy households' needs or to collectively meet the needs of the whole community.
 
 The general government sector, in the European System of Accounts, has four sub-sectors:
-    1. central government
-    2. state government
-    3. local government
-    4. social security funds
+1. central government
+2. state government
+3. local government
+4. social security funds
 
 "Central government" consists of all administrative departments of the state and other central agencies whose responsibilities cover the whole economic territory of a country, except for the administration of social security funds.
 
@@ -32,9 +29,9 @@ The general government sector, in the European System of Accounts, has four sub-
 "Local government" consists of all types of public administration whose responsibility covers only a local part of the economic territory, apart from local agencies of social security funds.
 
 "Social security fund" is a central, state or local institutional unit whose main activity is to provide social benefits. It fulfils the two following criteria:
-    - by law or regulation (except those about government employees), certain population groups must take part in the scheme and have to pay contributions;
-    - general government is responsible for the management of the institutional unit, for the payment or approval of the level of the contributions and of the benefits, independent of its role as a supervisory body or employer.
-    - 
+- by law or regulation (except those about government employees), certain population groups must take part in the scheme and have to pay contributions;
+- general government is responsible for the management of the institutional unit, for the payment or approval of the level of the contributions and of the benefits, independent of its role as a supervisory body or employer.
+
 The GFSM 2001 framework is similar to the financial accounting of businesses. For example, it recommends that governments produce a full set of financial statements including the statement of government operations (akin to the income statement), the balance sheet, and a cash flow statement. Two other similarities between the GFSM 2001 and business financial accounting are the recommended use of accrual accounting as the basis of recording and the presentations of stocks of assets and liabilities at market value. It is an improvement on the prior methodology – Government Finance Statistics Manual 1986 – based on cash flows and without a balance sheet statement.
 
 ## Users of GFS

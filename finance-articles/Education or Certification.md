@@ -1,5 +1,4 @@
 # Education or Certification
-
 At the undergraduate level, several business schools and universities internationally offer "Investments" as a subject within their degree; some universities, in fact, have formulated the title of 'Investment Management' or 'Asset Management' conferred as a specialist bachelor's degree.
 
 Increasingly, those with aspirations to work as an investment manager, require further education beyond a bachelor's degree in business, finance, or economics.
@@ -10,12 +9,11 @@ Further, a graduate degree - typically the MBA or MSF, or the more specialized M
 
 There is evidence that any particular qualification enhances the most desirable characteristic of an investment manager, that is, the ability to select investments that result in an above average (risk weighted) long-term performance.
 
-
 ## Investment management certifications
-    - Chartered Alternative Investment Analyst (CAIA)
-    - Chartered Financial Analyst (CFA)
-    - Chartered Investment Manager (CIM)
-    - Chartered Wealth Manager (CWM)
-    - Certified International Investment Analyst (CIIA)
+- Chartered Alternative Investment Analyst (CAIA)
+- Chartered Financial Analyst (CFA)
+- Chartered Investment Manager (CIM)
+- Chartered Wealth Manager (CWM)
+- Certified International Investment Analyst (CIIA)
 
 - To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Investment_management#Education_or_certification)

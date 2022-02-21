@@ -1,7 +1,8 @@
 # Overview
 
 The proper role of government provides a starting point for the analysis of public finance. In theory, under certain circumstances, private markets will allocate goods and services among individuals efficiently (in the sense that no waste occurs and that individual tastes are matching with the economy's productive abilities). If private markets were able to provide efficient outcomes and if the distribution of income were socially acceptable, then there would be little or no scope for government. In many cases, however, conditions for private market efficiency are violated. 
-    National defense is one example of non-rival consumption, or of a public good.
+
+National defense is one example of non-rival consumption, or of a public good.
 
 "Market failure" occurs when private markets do not allocate goods or services efficiently. The existence of market failure provides an efficiency-based rationale for collective or governmental provision of goods and services. Externalities, public goods, informational advantages, strong economies of scale, and network effects can cause market failures. Public provision via a government or a voluntary association, however, is subject to other inefficiencies, termed "government failure."
 

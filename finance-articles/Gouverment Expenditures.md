@@ -11,5 +11,5 @@ Government operations are those activities involved in the running of a state or
 - Employment insurance
 - Health Care
 - Public financing of campaigns
-
-- To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Public_finance#Government_expenditures)
+  
+To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Public_finance#Government_expenditures)
