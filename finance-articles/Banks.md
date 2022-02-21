@@ -2,12 +2,12 @@
 
 Banks are financial intermediaries that lend money to borrowers to generate revenue and accept deposits . They are typically regulated heavily, as they provide market stability and consumer protection. Banks include:
 
-    - Public banks
-    - Commercial banks
-    - Central banks
-    - Cooperative banks
-    - State-managed cooperative banks
-    - State-managed land development banks
+- Public banks
+- Commercial banks
+- Central banks
+- Cooperative banks
+- State-managed cooperative banks
+- State-managed land development banks
   
 ## Non-bank financial institutions
 Non-bank financial institutions facilitate financial services like investment, risk pooling, and market brokering. They generally do not have full banking licenses. Non-bank financial institutions include:
@@ -26,7 +26,6 @@ The primary market (or initial market) generally refers to new issues of stocks,
 The secondary market refers to transactions in financial instruments that were previously issued.
 
 ## Financial instruments
-
 Financial instruments are tradable financial assets of any kind. They include money, evidence of ownership interest in an entity, and contracts.
 
 ## Cash instruments
@@ -38,5 +37,7 @@ A derivative instrument is a contract that derives its value from one or more un
 # Financial services
 Financial services are offered by a large number of businesses that encompass the finance industry. These include credit unions, banks, credit card companies, insurance companies, stock brokerages, and investment funds.
 
-
+## Further Reading
+- [[Bankruptcy]]
+- [[Central Bank]]
 - To visit the original wikipedia page, follow this link: (https://en.wikipedia.org/wiki/Financial_system#Banks)

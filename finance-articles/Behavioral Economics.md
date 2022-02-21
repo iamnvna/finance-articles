@@ -240,3 +240,8 @@ Neuroeconomics studies decision making by using a combination of tools from thes
 
 ### **Evolutionary psychology**
 An evolutionary psychology perspective states that many of the perceived limitations in rational choice can be explained as being rational in the context of maximizing biological fitness in the ancestral environment, but not necessarily in the current one. Thus, when living at subsistence level where a reduction of resources may result in death, it may have been rational to place a greater value on preventing losses than on obtaining gains. It may also explain behavioral differences between groups, such as males being less risk-averse than females since males have more variable reproductive success than females. While unsuccessful risk-seeking may limit reproductive success for both sexes, males may potentially increase their reproductive success from successful risk-seeking much more than females can.
+
+## Further Reading
+- [[Behavioral Finance]]
+- [[Monetary Economics]]
+- [[Financial Economics]]

@@ -9,6 +9,8 @@ One can classify currencies into three monetary systems: fiat money, commodity m
 Digital currency has arisen with the popularity of computers and the Internet. Whether digital notes and coins will be successfully developed remains dubious. Decentralized digital currencies, such as cryptocurrencies are not legal currency, strictly speaking, since they are not issued by a government monetary authority (although one of them, Bitcoin, has become legal tender in El Salvador). Many warnings issued by various countries note the opportunities that cryptocurrencies create for illegal activities, such as money laundering and terrorism. In 2014 the United States IRS issued a statement explaining that virtual currency is treated as property for Federal income-tax purposes and providing examples of how longstanding tax principles applicable to transactions involving property apply to virtual currency.
 
 ## History
+- [Read Full Article](History%20of%20Money.md)
+
 ### **Early currency**
 Originally money was a form of receipt, representing grain stored in temple granaries in Sumer in ancient Mesopotamia and in Ancient Egypt.
 
@@ -91,3 +93,7 @@ In economics, a local currency is a currency not backed by a national government
 Local currencies can also come into being when there is economic turmoil involving the national currency. An example of this is the Argentinian economic crisis of 2002 in which IOUs issued by local governments quickly took on some of the characteristics of local currencies.
 
 One of the best examples of a local currency is the original LETS currency, founded on Vancouver Island in the early 1980s. In 1982, the Canadian Central Bank’s lending rates ran up to 14% which drove chartered bank lending rates as high as 19%. The resulting currency and credit scarcity left island residents with few options other than to create a local currency.
+
+## Further Reading
+- [[Cryptocurrencies]]
+- [[Digital Currency]]

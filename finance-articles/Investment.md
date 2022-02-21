@@ -1,8 +1,8 @@
 # Investment
 
-**Investment** is the dedication of an asset to attain an increase in value over a period of time. Investment requires a sacrifice of some present asset, such as time, money, or effort.
+**Investment** is the dedication of an [asset](Assets.md) to attain an increase in value over a period of time. Investment requires a sacrifice of some present asset, such as time, money, or effort.
 
-In finance, the purpose of investing is to generate a return from the invested asset. The return may consist of a gain (profit) or a loss realized from the sale of a property or an investment, unrealized [capital appreciation](Capital%20Appreciation.md) (or depreciation), or investment income such as [dividends](Dividend.md), interest, or rental income, or a combination of capital gain and income. The return may also include currency gains or losses due to changes in the foreign currency exchange rates.
+In finance, the purpose of investing is to generate a return from the invested asset. The return may consist of a gain (profit) or a loss realized from the sale of a property or an investment, unrealized [capital appreciation](Capital%20Appreciation.md) (or depreciation), or investment income such as [dividends](Dividend.md), interest, or rental income, or a combination of capital gain and income. The return may also include currency gains or losses due to changes in the foreign currency [exchange rates](Exchange%20Rate.md).
 
 Investors generally expect higher returns from riskier investments. When a low-risk investment is made, the return is also generally low. Similarly, high risk comes with a chance of high returns.
 
@@ -13,7 +13,7 @@ An investor may bear a risk of loss of some or all of their [capital](Financial%
 
 Savings bear the (normally remote) risk that the financial provider may default.
 
-Foreign currency savings also bear foreign exchange risk: if the currency of a savings account differs from the account holder's home currency, then there is the risk that the exchange rate between the two currencies will move unfavourably so that the value of the savings account decreases, measured in the account holder's home currency.
+Foreign currency savings also bear foreign exchange risk: if the currency of a savings account differs from the account holder's home currency, then there is the risk that the [[exchange rate]] between the two currencies will move unfavourably so that the value of the savings account decreases, measured in the account holder's home currency.
 
 Even investing in tangible assets like has its risk. And just like with most risk, property buyers can seek to mitigate any potential risk by taking out mortgage and by borrowing at a lower loan to security ratio.
 
@@ -60,5 +60,7 @@ Free cash flow measures the cash a company generates which is available to its d
 The debt-to-equity ratio is an indicator of capital structure. A high proportion of debt, reflected in a high debt-to-equity ratio, tends to make a company's earnings, free cash flow, and ultimately the returns to its investors, riskier or volatile. Investors compare a company's debt-to-equity ratio with those of other companies in the same industry, and examine trends in debt-to-equity ratios and free cashflow.
 
 ## Further Reading
+- [[Investment Management]]
+- [[Asset Management]]
 - [Assets](Assets.md)
 - [Liability](Liability.md)
