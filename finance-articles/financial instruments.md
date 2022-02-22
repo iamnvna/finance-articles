@@ -1,6 +1,6 @@
-# financial instruments
+# Financial instruments
 
-**Financial instruments** are monetary contracts between parties. They can be created, traded, modified and settled. They can be cash (currency), evidence of an ownership interest in an entity or a contractual right to receive or deliver in the form of currency (forex); debt (bonds, loans); equity (shares); or derivatives (options, futures, forwards).
+**Financial instruments** are monetary contracts between parties. They can be created, traded, modified and settled. They can be cash ([[currency]]), evidence of an ownership interest in an entity or a contractual right to receive or deliver in the form of currency (forex); debt (bonds, loans); [[Equity (Finance)]] (shares); or [[derivative]]s (options, futures, forwards).
 
 International Accounting Standards IAS 32 and 39 define a financial instrument as "any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity".
 

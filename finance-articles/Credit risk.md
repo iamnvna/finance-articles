@@ -1,6 +1,6 @@
 # Credit risk
 
-A **credit risk** is risk of default on a debt that may arise from a borrower failing to make required payments. In the first resort, the risk is that of the lender and includes lost principal and interest, disruption to cash flows, and increased collection costs. The loss may be complete or partial. In an efficient market, higher levels of credit risk will be associated with higher borrowing costs. Because of this, measures of borrowing costs such as yield spreads can be used to infer credit risk levels based on assessments by market participants.
+A **credit risk** is risk of [[default]] on a debt that may arise from a borrower failing to make required payments. In the first resort, the risk is that of the lender and includes lost principal and interest, disruption to cash flows, and increased collection costs. The loss may be complete or partial. In an efficient market, higher levels of credit risk will be associated with higher borrowing costs. Because of this, measures of borrowing costs such as yield spreads can be used to infer credit risk levels based on assessments by market participants.
 
 Losses can arise in a number of circumstances, for example:
 - A consumer may fail to make a payment due on a mortgage loan, credit card, line of credit, or other loan.

@@ -1,0 +1,15 @@
+# Term loan
+
+A **term loan** is a monetary [[loan]] that is repaid in regular payments over a set period of time. Term loans usually last between one and ten years, but may last as long as 30 years in some cases. A term loan usually involves an unfixed (a. k. a. floating) interest rate that will add additional balance to be repaid. The floating interest rate is often based on the borrower's credit rating and/or its consolidated leverage ratio and often has a base of LIBOR or a similar benchmark rate.
+
+## Usage
+Term loans can be given on an individual basis, but are often used for small business loans. The ability to repay over a long period of time is attractive for new or expanding enterprises, as the assumption is that they will increase their [[profit]] over time. Term loans are a good way of quickly increasing [[capital]] in order to raise a business’ supply capabilities or range. For instance, some new companies may use a term loan to buy company vehicles or rent more space for their operations.
+
+### **Considerations**
+One thing to consider when getting a term loan is whether the interest rate is fixed or floating. A fixed interest rate means that the percentage of interest will never increase, regardless of the financial market. Low-interest periods are usually an excellent time to take out a fixed rate loan. Floating interest rates will fluctuate with the market, which can be good or bad for you depending on what happens with the global and national economy. Since some term loans last for 10 years, betting that the rate will stay consistently low is a real risk.
+
+Also, consider whether the term loan you are looking at uses compound interest. If it does, the amount of interest will be periodically added to the principal borrowed amount, meaning that the interest keeps getting higher the longer the term lasts. If the loan does use compound interest, check to see if there are any penalties for early repayment of the loan. If you get a windfall or profits increase spectacularly, you may be able to pay off your entire balance before it is due, preventing you from paying additional interest by waiting for the loan term to end.
+
+Some loaning institutions offer a variety of repayment plans for your term loan. Commonly, you may choose to pay off your debt in even amounts, or the amount you pay will gradually increase over the loan period. If you expect that you will be more financially able to repay in the future, causing an incremental increase may help you and save you interest. If you are unsure of your future monetary position, even payments may help prevent defaulting on the loan if things go badly.
+
+Choosing a term loan may be in your best interest, depending on your circumstances. Beware of extremely long repayment periods, as generally speaking, the longer the term, the more you will owe because the interest accrues over a long period of time. For more information, contact a financial advisor or speak to your bank about loan options they provide. 
