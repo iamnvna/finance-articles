@@ -42,8 +42,11 @@
 39. [[Exchange Rate]]
 40. [[Financial Services]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 41. [[Central Bank]]
 =======
+=======
+>>>>>>> parent of b9a6ad5... Revert "Minor edit"
 41. [[Central Bank]]
 42. [[Collateral (Finance)]]
 43. [[Income Tax]]
@@ -53,6 +56,7 @@
 47. [[Loan]]
 48. [[Gross Income]]
 49. [[Allowance]]
+<<<<<<< HEAD
 50. [[Trade Exchange]]
 
 ### *Articles from sadokjbenyeni*
@@ -87,3 +91,6 @@
 28. [[Size of the Global Fund Managment Industry]]
 29. [[Working Capital Management]]
 >>>>>>> 3c40ca6b60a0244f6daa682dd7c2b52635eccadc
+=======
+50. [[Trade Exchange]]
+>>>>>>> parent of b9a6ad5... Revert "Minor edit"
