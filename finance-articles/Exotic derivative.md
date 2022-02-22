@@ -1,0 +1,7 @@
+# Exotic derivative
+
+An **exotic derivative**, in [[finance]], is a [[derivative]] which is more complex than commonly traded "vanilla" products. This complexity usually relates to determination of payoff. The category may also include derivatives with a non-standard subject matter (i.e., underlying), developed for a particular client or a particular market.
+
+The term "exotic derivative" has no precisely defined meaning, being a colloquialism that reflects how common a particular derivative is in the marketplace. As such, certain derivative instruments have been considered exotic when conceived of and sold, but lost this status when they were traded with significant enough volume. Examples of this phenomenon include interest rate- and currency-swaps.
+
+As regards valuation, given their complexity, exotic derivatives are usually modelled using specialized simulation- or lattice-based techniques. Often, it is possible, to "manufacture" the exotic derivative out of standard derivatives. For example, a knockout call can be "manufactured" out of standard options. This latter approach may then be preferred, and also allows for a benchmark against which the more specialized models may be verified. 
