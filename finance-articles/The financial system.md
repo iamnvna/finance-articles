@@ -7,14 +7,14 @@ In other words, [financial systems](Financial%20System.md) can be known wherever
 Money, credit, and [[finance]] are used as media of exchange in financial systems. They serve as a medium of known value for which goods and services can be exchanged as an alternative to bartering. A modern financial system may include banks (public sector or private sector), financial markets, financial instruments, and financial services. Financial systems allow funds to be allocated, invested, or moved between economic sectors, and they enable individuals and companies to share the associated risks.
 
 ## The components of a financial system
-The components of a financial system. There are mainly four components of the [[financial system]]:
+The components of a financial system. There are mainly four components of the financial system:
 1. Financial markets - the market place where buyers and sellers interact with each other and participate in the trading of bonds, shares and other assets are called financial markets.
 2. Financial [[assets]] - the products which are traded in the financial markets are called financial assets. Based on different requirements and credit seekers, the securities in the market also differ from each others.
 3. Financial institutions - financial institutions are acting as a mediator between the investors and borrowers. They provide financial services for members and clients. It is also termed as financial intermediaries because they act as middlemen between the savers and borrowers. The investor's savings are mobilized either directly or indirectly via the financial markets. They offer services to organizations who want to raise funds from markets and take care of financial assets (deposits, securities, loan, etc).
 4. [[Financial services]] - services provided by assets management and liabilities management companies. They help to get the required funds and also make sure that they are efficiently invested. (eg. banking services, insurance services and investment services)
 
 ## Banks
-[[Banks]] are financial intermediaries that lend money to borrowers to generate revenue and accept deposits . They are typically regulated heavily, as they provide market stability and consumer protection. Banks include:
+Banks are financial intermediaries that lend money to borrowers to generate revenue and accept deposits . They are typically regulated heavily, as they provide market stability and consumer protection. Banks include:
 - Public banks
 - Commercial banks
 - [Central banks](Central%20Bank.md)

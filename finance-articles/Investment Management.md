@@ -11,8 +11,6 @@ According to a Boston Consulting Group study, the assets managed professionally 
 The five largest asset managers are holding 22.7 percent of the externally held assets. Nevertheless, the market concentration, measured via the Herfindahl-Hirschmann Index, could be estimated at 173.4 in 2018, showing that the industry is not very concentrated.
 
 ## Industry scope
-- [Read Full Article](Industry%20Scope.md)
-
 The business of investment has several facets, the employment of professional fund managers, research (of individual assets and [[assets]] classes), dealing, settlement, marketing, internal auditing, and the preparation of reports for clients. The largest financial fund managers are firms that exhibit all the complexity their size demands. Apart from the people who bring in the money (marketers) and the people who direct investment (the fund managers), there are compliance staff (to ensure accord with legislative and regulatory constraints), internal auditors of various kinds (to examine internal systems and controls), financial controllers (to account for the institutions' own money and costs), computer experts, and "back office" employees (to track and record transactions and fund valuations for up to thousands of clients per institution).
 
 ### **Key problems of running such businesses**
@@ -37,23 +35,18 @@ Some institutions have been more vocal and active in pursuing such matters; for 
 The national context in which shareholder representation considerations are set is variable and important. The USA is a litigious society and shareholders use the law as a lever to pressure management teams. In Japan, it is traditional for shareholders to be low in the 'pecking order,' which often allows management and labor to ignore the rights of the ultimate owners. Whereas US firms generally cater to shareholders, Japanese businesses generally exhibit a stakeholder mentality, in which they seek consensus amongst all interested parties (against a background of strong unions and labour legislation).
 
 ## Size of the global fund management industry
-- [Read Full Article](Size%20of%20the%20Global%20Fund%20Managment%20Industry.md)
 
 Conventional assets under management of the global fund management industry increased by 10% in 2010, to $79.3 trillion. Pension assets accounted for $29.9 trillion of the total, with $24.7 trillion invested in mutual funds and $24.6 trillion in insurance funds. Together with alternative assets (sovereign wealth funds, hedge funds, private equity funds, and exchange traded funds) and funds of wealthy individuals, assets of the global fund management industry totalled around $117 trillion. Growth in 2010 followed a 14% increase in the previous year and was due both to the recovery in equity markets during the year and an inflow of new funds.
 
 The US remained by far the biggest source of funds, accounting for around a half of conventional assets under management or some $36 trillion. The UK was the second largest centre in the world and by far the largest in Europe with around 8% of the global total.
 
 ## Philosophy, process and people
-- [Read Full Article](Philosophy,%20Process%20and%20People.md)
-
 The 3-P's (Philosophy, Process, and People) are often used to describe the reasons why the manager is able to produce above average results.
 - **Philosophy** refers to the overarching beliefs of the investment organization. For example: (i) Does the manager buy growth or value shares, or a combination of the two (and why)? (ii) Do they believe in market timing (and on what evidence)? (iii) Do they rely on external research or do they employ a team of researchers? It is helpful if any and all of such fundamental beliefs are supported by proof-statements.
 - **Process** refers to the way in which the overall philosophy is implemented. For example: (i) Which universe of assets is explored before particular assets are chosen as suitable investments? (ii) How does the manager decide what to buy and when? (iii) How does the manager decide what to sell and when? (iv) Who takes the decisions and are they taken by committee? (v) What controls are in place to ensure that a rogue fund (one very different from others and from what is intended) cannot arise?
 - **People** refers to the staff, especially the fund managers. The questions are, Who are they? How are they selected? How old are they? Who reports to whom? How deep is the team (and do all the members understand the philosophy and process they are supposed to be using)? And most important of all, How long has the team been working together? This last question is vital because whatever performance record was presented at the outset of the relationship with the client may or may not relate to (have been produced by) a team that is still in place. If the team has changed greatly (high staff turnover or changes to the team), then arguably the performance record is completely unrelated to the existing team (of fund managers).
 
 ## Investment managers and portfolio structures
-- [Read Full Article](Investment%20Manager%20and%20Portfolio%20Structures.md)
-
 At the heart of the investment management industry are the managers who invest and divest client investments.
 
 A certified company investment advisor should conduct an assessment of each client's individual needs and risk profile. The advisor then recommends appropriate investments.
@@ -89,8 +82,6 @@ Performance measurement should not be reduced to the evaluation of fund returns 
 [[Portfolio]] return may be evaluated using factor models. The first model, proposed by Jensen (1968), relies on the CAPM and explains [[portfolio]] returns with the market index as the only factor. It quickly becomes clear, however, that one factor is not enough to explain the returns very well and that other factors have to be considered. Multi-factor models were developed as an alternative to the CAPM, allowing a better description of [[portfolio]] risks and a more accurate evaluation of a portfolio's performance. For example, Fama and French (1993) have highlighted two important factors that characterize a company's risk in addition to market risk. These factors are the book-to-market ratio and the company's size as measured by its market capitalization. Fama and French therefore proposed three-factor model to describe [[portfolio]] normal returns (Fama–French three-factor model). Carhart (1997) proposed to add momentum as a fourth factor to allow the short-term persistence of returns to be taken into account. Also of interest for performance measurement is Sharpe's (1992) style analysis model, in which factors are style indices. This model allows a custom benchmark for each [[portfolio]] to be developed, using the linear combination of style indices that best replicate [[portfolio]] style allocation, and leads to an accurate evaluation of [[portfolio]] alpha.
 
 ## Education or certification
-- [Read Full Article](Education%20or%20Certification.md)
-
 Investment management certifications:
   - Chartered Alternative Investment Analyst (CAIA)
   - Chartered Financial Analyst (CFA)
@@ -107,10 +98,5 @@ Increasingly, those with aspirations to work as an investment manager, require f
 There is evidence that any particular qualification enhances the most desirable characteristic of an investment manager, that is, the ability to select investments that result in an above average (risk weighted) long-term performance.[citation needed]
 
 ## Comparison to wealth management
-- [Read Full Article](Comparison%20to%20Wealth%20Managment.md)
 
 Wealth management, where financial advisors perform financial planning for clients, has traditionally served as an intermediary to investment managers in the United States and less so in Europe. However, as of 2019, the lines were becoming blurred.
-
-## Further Reading
-- [[Education or Certification]]
-- [[Comparison to Wealth Managment]]
