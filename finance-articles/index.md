@@ -42,7 +42,6 @@
 39. [[Exchange Rate]]
 40. [[Financial Services]]
 <<<<<<< HEAD
-<<<<<<< HEAD
 41. [[Central Bank]]
 =======
 41. [[Central Bank]]
@@ -88,6 +87,3 @@
 28. [[Size of the Global Fund Managment Industry]]
 29. [[Working Capital Management]]
 >>>>>>> 3c40ca6b60a0244f6daa682dd7c2b52635eccadc
-=======
-41. [[Central Bank]]
->>>>>>> parent of ce07624... Minor edit
