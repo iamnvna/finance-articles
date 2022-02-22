@@ -2,7 +2,7 @@
 
 **Finance** is a term for the management, creation, and study of money and investments Specifically, it deals with the questions of how an individual, company or government acquires money – called capital in the context of a business – and how they spend or invest that money. Finance is then often divided into the following broad categories: [[personal finance]], [[corporate finance]], and [[public finance]].
 
-At the same time, and correspondingly, finance is about the overall "system" i.e., the financial markets that allow the flow of money, via investments and other financial instruments, between and within these areas; this "flow" is facilitated by the financial services sector. Finance therefore refers to the study of the securities markets, including derivatives, and the institutions that serve as intermediaries to those markets, thus enabling the flow of money through the economy.
+At the same time, and correspondingly, finance is about the overall "system" i.e., the financial markets that allow the flow of money, via investments and other [[financial instruments]], between and within these areas; this "flow" is facilitated by the financial services sector. Finance therefore refers to the study of the securities markets, including derivatives, and the institutions that serve as intermediaries to those markets, thus enabling the flow of money through the economy.
 
 A major focus within finance is thus investment management – called money management for individuals, and asset management for institutions – and finance then includes the associated activities of securities trading and stock broking, investment banking, financial engineering, and risk management. Fundamental to these areas is the valuation of assets such as stocks, bonds, loans, but also, by extension, entire companies. Asset allocation, the mix of investments in the portfolio, is also fundamental here.
 
@@ -158,7 +158,5 @@ By 1200 BC, cowrie shells were used as a form of money in China. By 640 BC, the 
 The use of coins as a means of representing money began in the years between 600 and 570 BCE. Cities under the Greek empire, such as Aegina (595 BCE), Athens (575 BCE), and Corinth (570 BCE), started to mint their own coins. In the Roman Republic, interest was outlawed altogether by the Lex Genucia reforms. Under Julius Caesar, a ceiling on interest rates of 12% was set, and later under Justinian it was lowered even further to between 4% and 8%.
 
 ## Further Reading
-- [[Financial Theory]]
-- [[Areas of Finance]]
 - [[History of Money]]
 - [[Investment]]
