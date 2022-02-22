@@ -11,7 +11,6 @@ Although they are closely related, the disciplines of economics and finance are 
 Given its wide scope, finance is studied in several academic disciplines, and, correspondingly, there are several related degrees and professional certifications that can lead to the field.
 
 ## The financial system
-- [Read Full Article](The%20financial%20system.md)
   
 As above, the financial system consists of the flows of capital that take place between individuals (personal finance), governments (public finance), and businesses (corporate finance). "Finance" thus studies the process of channeling money from savers and investors to entities that need it. Savers and investors have money available which could earn interest or dividends if put to productive use. Individuals, companies and governments must obtain money from some external source, such as loans or credit, when they lack sufficient funds to operate.
 
