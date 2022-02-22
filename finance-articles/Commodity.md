@@ -73,7 +73,7 @@ In order to diversify their investments and mitigate the risks associated with i
 ## Inventory data
 The inventory of commodities, with low inventories typically leading to more volatile future prices and increasing the risk of a "stockout" (inventory exhaustion). According to economist theorists, companies receive a convenience yield by holding inventories of certain commodities. Data on inventories of commodities are not available from one common source, although data is available from various sources. Inventory data on 31 commodities was used in a 2006 study on the relationship between inventories and commodity futures risk premiums.
 
-Commodification of labor
+### **Commodification of labor**
 In classical political economy and especially in Karl Marx's critique of political economy, a commodity is an object or a good or service ("product" or "activity") produced by human labour. Objects are external to man. However, some objects attain "use value" to persons in this world, when they are found to be "necessary, useful or pleasant in life". "Use value" makes an object "an object of human wants", or "a means of subsistence in the widest sense".
 
 As society developed, people found that they could trade goods and services for other goods and services. At this stage, these goods and services became "commodities". According to Marx, commodities are defined as objects which are offered for sale or are "exchanged in a market". In the marketplace, where commodities are sold, "use value" is not helpful in facilitating the sale of commodities. Accordingly, in addition to having use value, commodities must have an "exchange value"—a value that could be expressed in the market.

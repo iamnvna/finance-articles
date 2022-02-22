@@ -81,4 +81,13 @@ Key areas of personal financial planning, as suggested by the Financial Planning
 10. **Education Planning:** With the growing interests on students' loan, having a proper financial plan in place is crucial. Parents often want to save for their kids but end up taking the wrong decisions, which affect the savings adversely. We often observe that, many parents give their kids expensive gifts, or unintentionally endanger the opportunity to obtain the much-needed grant. Instead, one should make their kids prepare for the future and support them financially in their education.
 
 ## Education and tools
+- [Read Full Article](Education%20and%20Tools.md)
+
 According to a survey done by Harris Interactive, 99% of the adults agreed that personal finance should be taught in schools. Financial authorities and the American federal government had offered free educational materials online to the public. However, according to a Bank of America poll, 42% of adults were discouraged while 28% of adults thought that personal finance is a difficult subject because of vast amount of information available online. As of 2015, 17 out of 50 states in the United States requires high school students to study personal finance before graduation. The effectiveness of financial education on general audience is controversial. For example, a study done by Bell, Gorin and Hogarth (2009) stated that those who undergo financial education were more likely to use a formal spending plan. Financially educated high school students are more likely to have a savings account with regular savings, fewer overdrafts and more likely to pay off their credit card balances. However, another study was done by Cole and Shastry (Harvard Business School, 2009) found that there were no differences in saving behaviours of people in American states with financial literacy mandate enforced and the states without a literacy mandate.
+
+## Further Reading
+- [[Areas of Focus]]
+- [[Personal Finance Principles]]
+- [[Education and Tools]]
+- [[Personal Financial Planning Process]]
+- [[Allowance]]

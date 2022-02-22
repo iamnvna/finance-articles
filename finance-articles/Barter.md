@@ -91,3 +91,8 @@ In Spain (particularly the Catalonia region) there is a growing number of exchan
 Other examples are El Cambalache in San Cristobal de las Casas, Chiapas, Mexico and post-Soviet societies.
 
 The recent blockchain technologies are making it possible to implement decentralized and autonomous barter exchanges that can be used by crowds on a massive scale. BarterMachine is an Ethereum smart contract based system that allows direct exchange of multiple types and quantities of tokens with others. It also provides a solution miner that allows users to compute direct bartering solutions in their browsers. Bartering solutions can be submitted to BarterMachine which will perform collective transfer of tokens among the blockchain addresses that belong to the users. If there are excess tokens left after the requirements of the users are satisfied, the leftover tokens will be given as reward to the solution miner.
+
+## Further Reading
+- [[Currency]]
+- [[Digital Currency]]
+- [[History of Money]]

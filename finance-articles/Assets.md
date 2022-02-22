@@ -2,7 +2,7 @@
 
 In financial accounting, an **asset** is any resource owned or controlled by a business or an economic entity. It is anything (tangible or intangible) that can be used to produce positive economic value. Assets represent value of ownership that can be converted into cash (although cash itself is also considered an asset). The balance sheet of a firm records the monetary value of the assets owned by that firm. It covers money and other valuables belonging to an individual or to a business.
 
-Assets can be grouped into two major classes: tangible assets and intangible assets. Tangible assets contain various subclasses, including current assets and fixed assets. Current assets include cash, inventory, accounts receivable, while fixed assets include land, buildings and equipment. Intangible assets are non-physical resources and rights that have a value to the firm because they give the firm an advantage in the marketplace. Intangible assets include goodwill, copyrights, trademarks, patents, computer programs, and financial assets, including financial investments, bonds, and stocks.
+Assets can be grouped into two major classes: tangible assets and intangible assets. Tangible assets contain various subclasses, including current assets and fixed assets. Current assets include cash, inventory, accounts receivable, while fixed assets include land, buildings and equipment. Intangible assets are non-physical resources and rights that have a value to the firm because they give the firm an advantage in the marketplace. Intangible assets include goodwill, copyrights, trademarks, patents, computer programs, and financial assets, including [financial investments](Investment.md), bonds, and [stocks](Stock.md).
 
 ## Formal definition
 IFRS (International Financial Reporting Standards), the most widely used financial reporting system, defines: "An asset is a present economic resource controlled by the entity as a result of past events. An economic resource is a right that has the potential to produce economic benefits."
@@ -79,3 +79,5 @@ A wasting asset is an asset that irreversibly declines in value over time. This 
 ## Further Reading
 - [Liability](Liability.md)
 - [[Asset Management]]
+- [[Capital Appreciation]]
+- [[Equity (Finance)]]

@@ -26,11 +26,11 @@ Usually young children get "gift" allowances. For some parents, when children ar
 A 2019 study by the American Institute of Certified Public Accountants found the average allowance paid to U.S. children was $30 per week.
 
 ## Adults
-In gynocentric countries like South Korea and Japan, it is customary for the woman to control all household [finances](Finance.md). Any paycheck that the husband receives goes straight to the wife's bank account, and the wife usually pays around 5~10% of it as allowance to her husband. That practice is very common because of a widespread social prejudice that men are unfit to manage household [finances](Finance.md).
+In gynocentric countries like South Korea and Japan, it is customary for the woman to control all household [[finances]]. Any paycheck that the husband receives goes straight to the wife's bank account, and the wife usually pays around 5~10% of it as allowance to her husband. That practice is very common because of a widespread social prejudice that men are unfit to manage household [[finances]].
 
 In 2015, a court in South Korea granted an at-fault divorce (no-fault divorce is not allowed in that country) to a husband who received only 100,000 won (US$95) per month in allowance from his wife. The article stated that the husband was a professional soldier, but since his entire salary went to his wife, he had to take a second job as a construction worker to afford to buy his meals. The ruling established that an excessively-low allowance from a wife can be counted as a fault for divorce in that country.
 
 In Japan, three quarters of men get monthly allowances from their wives. Since 1979, Shinsei Bank has been researching the amount of spending money given to husbands by their wives. In 2011 it was 39,600 yen (about US$500).[A 1] That can be compared to before the Japanese asset price bubble burst, when the allowance was 76,000 yen in 1990 (US$530.[A 2] equivalent to US1,050 in 2022).
 
 ## Further Reading
-- [Gross Income](Gross%20Income.md)
+- [[Gross Income]]

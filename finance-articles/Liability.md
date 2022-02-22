@@ -46,3 +46,5 @@ When cash is withdrawn from a bank, the opposite happens: the bank "credits" its
 
 ## Further Reading
 - [Assets](Assets.md)
+- [[Dividend]]
+- [[Direct Debit]]

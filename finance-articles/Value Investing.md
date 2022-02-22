@@ -2,7 +2,7 @@
 
 **Value investing** is an investment paradigm that involves buying securities that appear underpriced by some form of fundamental analysis. The various forms of value investing derive from the investment philosophy first taught by Benjamin Graham and David Dodd at Columbia Business School in 1928, and subsequently developed in their 1934 text Security Analysis.
 
-The early value opportunities identified by Graham and Dodd included stock in public companies trading at discounts to book value or tangible book value, those with high dividend yields, and those having low price-to-earning multiples, or low price-to-book ratios.
+The early value opportunities identified by Graham and Dodd included stock in public companies trading at discounts to book value or tangible book value, those with high [[dividend]] yields, and those having low price-to-earning multiples, or low price-to-book ratios.
 
 High-profile proponents of value investing, including Berkshire Hathaway chairman Warren Buffett, have argued that the essence of value investing is buying stocks at less than their intrinsic value. The discount of the market price to the intrinsic value is what Benjamin Graham called the "margin of safety". For the last 25 years, under the influence of Charlie Munger, Buffett expanded the value investing concept with a focus on "finding an outstanding company at a sensible price" rather than generic companies at a bargain price. Hedge fund manager Seth Klarman has described value investing as rooted in a rejection of the efficient-market hypothesis (EMH). While the EMH proposes that securities are accurately priced based on all available data, value investing proposes that some equities are not accurately priced.
 

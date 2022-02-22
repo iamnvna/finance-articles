@@ -1,6 +1,6 @@
 # Financial Services
 
-**Financial services** are the economic services provided by the finance industry, which encompasses a broad range of businesses that manage money, including credit unions, banks, credit-card companies, insurance companies, accountancy companies, consumer-finance companies, stock brokerages, investment funds, individual managers, and some government-sponsored enterprises.
+**Financial services** are the economic services provided by the [[finance]] industry, which encompasses a broad range of businesses that manage money, including credit unions, banks, credit-card companies, insurance companies, accountancy companies, consumer-finance companies, stock brokerages, investment funds, individual managers, and some government-sponsored enterprises.
 
 ## History
 The term "financial services" became more prevalent in the United States partly as a result of the Gramm–Leach–Bliley Act of the late 1990s, which enabled different types of companies operating in the U.S. financial services industry at that time to merge.
@@ -12,7 +12,7 @@ The financial sector is traditionally among those to receive government support 
 
 ## Banks
 ### **Commercial banking services**
-A commercial bank is what is commonly referred to as simply a bank. The term "commercial" is used to distinguish it from an investment bank, a type of financial services entity which instead of lending money directly to a business, helps businesses raise money from other firms in the form of bonds (debt) or stock (equity).
+A commercial bank is what is commonly referred to as simply a bank. The term "commercial" is used to distinguish it from an investment bank, a type of financial services entity which instead of lending money directly to a business, helps businesses raise money from other firms in the form of bonds (debt) or [[stock]] (equity).
 
 The primary operations of commercial banks include:
 - Keeping money safe while also allowing withdrawals when needed

@@ -75,6 +75,8 @@ It has been remarked that nudging is also a euphemism for psychological manipula
 There exists an anticipation and, simultaneously, implicit criticism of the nudge theory in works of Hungarian social psychologists who emphasize the active participation in the nudge of its target (Ferenc Merei and Laszlo Garai).
 
 ## Behavioral economics concepts
+- [Read Full Article](Behavioral%20Economics.md)
+
 Conventional economics assumes that all people are both rational and selfish. In practice, this is often not the case, which leads to the failure of traditional models. Behavioral economics studies the biases, tendencies and heuristics that affect the decisions that people make to improve, tweak or overhaul traditional economic theory. It aids in determining whether people make good or bad choices and whether they could be helped to make better choices. It can be applied both before and after a decision is made.
 
 ### **Search heuristics**
@@ -132,7 +134,9 @@ Familiarity bias simply describes the tendency of people to return to what they 
 Status quo bias describes the tendency of people to keep things the way they are. It is a particular aversion to change in favor of remaining comfortable with what is known.
 
 ### **Behavioral finance**
-Behavioral finance is the study of the influence of psychology on the behavior of investors or financial analyst. It assumes that investors are not always rational, have limits to their self-control and are influenced by their own biases. For example, behavioral law and economics scholars studying the growth of financial firms' technological capabilities have attributed decision science to irrational consumer decisions. It also includes the subsequent effects on the markets. Behavioral Finance attempts to explain the reasoning patterns of investors and measures the influential power of these patterns on the investor's decision making. The central issue in behavioral finance is explaining why market participants make irrational systematic errors contrary to assumption of rational market participants. Such errors affect prices and returns, creating market inefficiencies.
+- [Read Full Article](Behavioral%20Finance.md)
+
+[[Behavioral finance]] is the study of the influence of psychology on the behavior of investors or financial analyst. It assumes that investors are not always rational, have limits to their self-control and are influenced by their own biases. For example, behavioral law and economics scholars studying the growth of financial firms' technological capabilities have attributed decision science to irrational consumer decisions. It also includes the subsequent effects on the markets. Behavioral Finance attempts to explain the reasoning patterns of investors and measures the influential power of these patterns on the investor's decision making. The central issue in behavioral finance is explaining why market participants make irrational systematic errors contrary to assumption of rational market participants. Such errors affect prices and returns, creating market inefficiencies.
 
 ### **Traditional finance**
 The accepted theories of finance are referred to as traditional finance. The foundation of traditional finance is associated with the modern portfolio theory (MPT) and the efficient-market hypothesis (EMH). Modern portfolio theory is a stock or portfolio's expected return, standard deviation, and its correlation with the other stocks or mutual funds held within the portfolio. With these three concepts, an efficient portfolio can be created for any group of stocks or bonds. An efficient portfolio is a group of stocks that has the maximum (highest) expected return given the amount of risk assumed, contains the lowest possible risk for a given expected return. The efficient-market hypothesis states that all information has already been reflected in a security's price or market value, and that the current price of the stock or bond always trades at its fair value. The proponents of the traditional theories believe that "investors should just own the entire market rather than attempting to outperform the market". Behavioral finance has emerged as an alternative to these theories of traditional finance and the behavioral aspects of psychology and sociology are integral catalysts within this field of study.
@@ -225,6 +229,8 @@ According to some researchers, when studying the mechanisms that form the basis 
 
 ## Related Fields
 ### **Experimental economics**
+- [Read Full Article](Experimental%20Finance.md)
+
 Experimental economics is the application of experimental methods, including statistical, econometric, and computational, to study economic questions. Data collected in experiments are used to estimate effect size, test the validity of economic theories, and illuminate market mechanisms. Economic experiments usually use cash to motivate subjects, in order to mimic real-world incentives. Experiments are used to help understand how and why markets and other exchange systems function as they do. Experimental economics have also expanded to understand institutions and the law (experimental law and economics).
 
 A fundamental aspect of the subject is design of experiments. Experiments may be conducted in the field or in laboratory settings, whether of individual or group behavior.

@@ -11,7 +11,6 @@ Although they are closely related, the disciplines of economics and finance are 
 Given its wide scope, finance is studied in several academic disciplines, and, correspondingly, there are several related degrees and professional certifications that can lead to the field.
 
 ## The financial system
-- [Read Full Article](The%20financial%20system.md)
   
 As above, the financial system consists of the flows of capital that take place between individuals (personal finance), governments (public finance), and businesses (corporate finance). "Finance" thus studies the process of channeling money from savers and investors to entities that need it. Savers and investors have money available which could earn interest or dividends if put to productive use. Individuals, companies and governments must obtain money from some external source, such as loans or credit, when they lack sufficient funds to operate.
 
@@ -159,5 +158,7 @@ By 1200 BC, cowrie shells were used as a form of money in China. By 640 BC, the 
 The use of coins as a means of representing money began in the years between 600 and 570 BCE. Cities under the Greek empire, such as Aegina (595 BCE), Athens (575 BCE), and Corinth (570 BCE), started to mint their own coins. In the Roman Republic, interest was outlawed altogether by the Lex Genucia reforms. Under Julius Caesar, a ceiling on interest rates of 12% was set, and later under Justinian it was lowered even further to between 4% and 8%.
 
 ## Further Reading
+- [[Financial Theory]]
+- [[Areas of Finance]]
 - [[History of Money]]
 - [[Investment]]

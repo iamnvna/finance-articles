@@ -1,10 +1,10 @@
 # Dividend
 
-A **dividend** is a distribution of profits by a corporation to its shareholders. When a corporation earns a profit or surplus, it is able to pay a proportion of the profit as a dividend to shareholders. Any amount not distributed is taken to be re-invested in the business (called retained earnings). The current year profit as well as the retained earnings of previous years are available for distribution; a corporation is usually prohibited from paying a dividend out of its capital. Distribution to shareholders may be in cash (usually a deposit into a bank account) or, if the corporation has a dividend reinvestment plan, the amount can be paid by the issue of further shares or by share repurchase. In some cases, the distribution may be of assets.
+A **dividend** is a distribution of profits by a corporation to its shareholders. When a corporation earns a profit or surplus, it is able to pay a proportion of the profit as a [[dividend]] to shareholders. Any amount not distributed is taken to be re-invested in the business (called retained earnings). The current year profit as well as the retained earnings of previous years are available for distribution; a corporation is usually prohibited from paying a [[dividend]] out of its capital. Distribution to shareholders may be in cash (usually a deposit into a bank account) or, if the corporation has a [[dividend]] reinvestment plan, the amount can be paid by the issue of further shares or by share repurchase. In some cases, the distribution may be of assets.
 
-The dividend received by a shareholder is income of the shareholder and may be subject to income tax. The tax treatment of this income varies considerably between jurisdictions. The corporation does not receive a tax deduction for the dividends it pays.
+The [[dividend]] received by a shareholder is income of the shareholder and may be subject to income tax. The tax treatment of this income varies considerably between jurisdictions. The corporation does not receive a tax deduction for the dividends it pays.
 
-A dividend is allocated as a fixed amount per share, with shareholders receiving a dividend in proportion to their shareholding. Dividends can provide stable income and raise morale among shareholders. For the joint-stock company, paying dividends is not an expense; rather, it is the division of after-tax profits among shareholders. Retained earnings (profits that have not been distributed as dividends) are shown in the shareholders' equity section on the company's balance sheet – the same as its issued share capital. Public companies usually pay dividends on a fixed schedule, but may declare a dividend at any time, sometimes called a special dividend to distinguish it from the fixed schedule dividends. Cooperatives, on the other hand, allocate dividends according to members' activity, so their dividends are often considered to be a pre-tax expense.
+A [[dividend]] is allocated as a fixed amount per share, with shareholders receiving a dividend in proportion to their shareholding. Dividends can provide stable income and raise morale among shareholders. For the joint-stock company, paying dividends is not an expense; rather, it is the division of after-tax profits among shareholders. Retained earnings (profits that have not been distributed as dividends) are shown in the shareholders' equity section on the company's balance sheet – the same as its issued share capital. Public companies usually pay dividends on a fixed schedule, but may declare a dividend at any time, sometimes called a special dividend to distinguish it from the fixed schedule dividends. Cooperatives, on the other hand, allocate dividends according to members' activity, so their dividends are often considered to be a pre-tax expense.
 
 The word "dividend" comes from the Latin word dividendum ("thing to be divided").
 
@@ -76,7 +76,7 @@ In India, a company declaring or distributing dividends is required to pay a Cor
 The United States and Canada impose a lower tax rate on dividend income than ordinary income, on the assertion that company profits had already been taxed as corporate tax.
 
 ## Effect on stock price
-After a stock goes ex-dividend (when a dividend has just been paid, so there is no anticipation of another imminent dividend payment), the stock price should drop.
+After a [[stock]] goes ex-dividend (when a dividend has just been paid, so there is no anticipation of another imminent dividend payment), the stock price should drop.
 
 To calculate the amount of the drop, the traditional method is to view the financial effects of the dividend from the perspective of the company. Since the company has paid say £x in dividends per share out of its cash account on the left hand side of the balance sheet, the equity account on the right side should decrease an equivalent amount. This means that a £x dividend should result in a £x drop in the share price.
 
@@ -120,3 +120,7 @@ The distribution of profits by other forms of mutual organization also varies fr
 In the case of mutual insurance, for example, in the United States, a distribution of profits to holders of participating life policies is called a dividend. These profits are generated by the investment returns of the insurer's general account, in which premiums are invested and from which claims are paid. The participating dividend may be used to decrease premiums, or to increase the cash value of the policy. Some life policies pay nonparticipating dividends. As a contrasting example, in the United Kingdom, the surrender value of a with-profits policy is increased by a bonus, which also serves the purpose of distributing profits. Life insurance dividends and bonuses, while typical of mutual insurance, are also paid by some joint stock insurers.
 
 Insurance dividend payments are not restricted to life policies. For example, general insurer State Farm Mutual Automobile Insurance Company can distribute dividends to its vehicle insurance policyholders.
+
+## Further Reading
+- [[Gross Income]]
+- [[Financial Capital]]

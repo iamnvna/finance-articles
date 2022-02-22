@@ -1,6 +1,6 @@
 # Asset Management
 
-**Asset management** refers to a systematic approach to the governance and realization of value from the things that a group or entity is responsible for, over their whole life cycles. It may apply both to tangible assets (physical objects such as buildings or equipment) and to intangible assets (such as human capital, intellectual property, goodwill or financial assets). Asset management is a systematic process of developing, operating, maintaining, upgrading, and disposing of assets in the most cost-effective manner (including all costs, risks and performance attributes).
+**Asset management** refers to a systematic approach to the governance and realization of value from the things that a group or entity is responsible for, over their whole life cycles. It may apply both to tangible assets (physical objects such as buildings or equipment) and to intangible assets (such as human capital, intellectual property, goodwill or [financial assets](Assets.md)). Asset management is a systematic process of developing, operating, maintaining, upgrading, and disposing of assets in the most cost-effective manner (including all costs, risks and performance attributes).
 
 The term is commonly used in the financial sector to describe people and companies who manage investments on behalf of others. Those include, for example, investment managers that manage the assets of a pension fund.
 
@@ -32,7 +32,7 @@ GIS-centric asset registry standardizes data and improves interoperability, prov
 
 The EAM system is only one of the 'enables' to good asset management. Asset managers need to make informed decisions in order to fulfill their organizational goals, this requires good asset information but also leadership, clarity of strategic priorities, competencies, inter-departmental collaboration and communications, workforce, and supply chain engagement, risk and change management systems, performance monitoring and continual improvement.
 
-### **Public asset management**
+### **Public asset management**=
 Public asset management expands the definition of enterprise asset management (EAM) by incorporating the management of all things of value to a municipal jurisdiction and its citizens' expectations. An example in which public asset management is used is land-use development and planning.
 
 ## Intellectual and non-physical asset management

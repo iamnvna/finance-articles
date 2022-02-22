@@ -2,7 +2,7 @@
 
 **Monetary economics** is the branch of economics that studies the different competing theories of money: it provides a framework for analyzing money and considers its functions (such as medium of exchange, store of value and unit of account), and it considers how money can gain acceptance purely because of its convenience as a public good. The discipline has historically prefigured, and remains integrally linked to, macroeconomics. This branch also examines the effects of monetary systems, including regulation of money and associated financial institutions and international aspects.
 
-Modern analysis has attempted to provide microfoundations for the demand for money and to distinguish valid nominal and real monetary relationships for micro or macro uses, including their influence on the aggregate demand for output. Its methods include deriving and testing the implications of money as a substitute for other assets and as based on explicit frictions.
+Modern analysis has attempted to provide microfoundations for the demand for money and to distinguish valid nominal and real monetary relationships for micro or macro uses, including their influence on the aggregate demand for output. Its methods include deriving and testing the implications of money as a substitute for other [[assets]] and as based on explicit frictions.
 
 ## History
 The foundational concept of any modern **theory of money** is the understanding that the value of fiat money depends upon exchange and not weight (compare with the Arrow-Debreu model).
@@ -13,7 +13,7 @@ Traditionally, research areas in monetary economics have included:
 - Empirical determinants of the demand for money.
 - Credit theory of money (also called debt theory of money), concerning the relationship between credit and money.
 - Debt deflation and balance-sheet theories, which hypothesize that over-extension of credit associated with a subsequent asset-price fall generate business fluctuations through the wealth effect on net worth.
-- Monetary aspects studied by central banks.
+- Monetary aspects studied by central [[banks]].
 - The monetary/fiscal policy relationship to macroeconomic stability
 - The effect of money supply growth on inflation.
 - The political economy of financial regulation and monetary policy
@@ -23,22 +23,22 @@ Traditionally, research areas in monetary economics have included:
 - Transmission mechanisms of monetary policy as to the macroeconomy
 - Neutrality of money vs. money illusion as to a change in the money supply, price level, or inflation on output
 - Tests, testability, and implications of rational-expectations theory as to changes in output or inflation from monetary policy
-- Monetary implications of imperfect and asymmetric information and fraudulent finance
+- Monetary implications of imperfect and asymmetric information and fraudulent [[finance]]
 - Game theory as a modeling paradigm for monetary and financial institutions
 - Possible advantages of following a monetary-policy rule to avoid inefficiencies of time inconsistency from discretionary policy
   
 ## History
 ### **Islamic Golden Age**
-At around the same time in the medieval Islamic world, a vigorous monetary economy was created during the 7th–12th centuries on the basis of the expanding levels of circulation of a stable high-value currency (the dinar). Innovations introduced by Muslim economists, traders and merchants include the earliest uses of credit, cheques, promissory notes, savings accounts, transactional accounts, loaning, trusts, exchange rates, the transfer of credit and debt, and banking institutions for loans and deposits.
+At around the same time in the medieval Islamic world, a vigorous monetary economy was created during the 7th–12th centuries on the basis of the expanding levels of circulation of a stable high-value [[currency]] (the dinar). Innovations introduced by Muslim economists, traders and merchants include the earliest uses of credit, cheques, promissory notes, savings accounts, transactional accounts, loaning, trusts, exchange rates, the transfer of credit and debt, and banking institutions for loans and deposits.
 
 ### **1500s to 1700s**
 In the Indian subcontinent, Sher Shah Suri (1540–1545), introduced a silver coin called a rupiya, weighing 178 grams. Its used was continued by the Mughal rulers. The history of the rupee traces back to Ancient India circa 3rd century BC. Ancient India was one of the earliest issuers of coins in the world, along with the Lydian staters, several other Middle Eastern coinages and the Chinese wen. The term is from rūpya, a Sanskrit term for silver coin, from Sanskrit rūpa, beautiful form.
 
-The imperial taka was officially introduced by the monetary reforms of Muhammad bin Tughluq, the emperor of the Delhi Sultanate, in 1329. It was modeled as representative money, a concept pioneered as paper money by the Mongols in China and Persia. The tanka was minted in copper and brass. Its value was exchanged with gold and silver reserves in the imperial treasury. The currency was introduced due to the shortage of metals.
+The imperial taka was officially introduced by the monetary reforms of Muhammad bin Tughluq, the emperor of the Delhi Sultanate, in 1329. It was modeled as representative money, a concept pioneered as paper money by the Mongols in China and Persia. The tanka was minted in copper and brass. Its value was exchanged with gold and silver reserves in the imperial treasury. The [[currency]] was introduced due to the shortage of metals.
 
-Both the Kabuli rupee and the Kandahari rupee were used as currency in Afghanistan prior to 1891, when they were standardized as the Afghan rupee. The Afghan rupee, which was subdivided into 60 paisas, was replaced by the Afghan afghani in 1925.
+Both the Kabuli rupee and the Kandahari rupee were used as [[currency]] in Afghanistan prior to 1891, when they were standardized as the Afghan rupee. The Afghan rupee, which was subdivided into 60 paisas, was replaced by the Afghan afghani in 1925.
 
-Until the middle of the 20th century, Tibet's official currency was also known as the Tibetan rupee.
+Until the middle of the 20th century, Tibet's official [[currency]] was also known as the Tibetan rupee.
 
 Serious interest in the concepts behind money occurred during the dramatic period of inflation in the late 15th to early 17th centuries known as the Price Revolution, during which the value of gold fell precipitously, sometimes fluctuating wildly, because of the importation of gold from the New World, primarily by Spain.
 
@@ -53,3 +53,6 @@ In 1720, Isaac Gervaise wrote The System or Theory of the Trade of the World. He
 Della Moneta, was published by Ferdinando Galiani in 1751, and is arguably the first modern text on economic theory. It was printed twenty-five years before Adam Smith's more famous book, The Wealth of Nations, which touched on some of the same topics. Della Moneta covered many modern monetary concepts, including the value, origin, and regulation of money. It carefully examined the possible causes for money's value to fluctuate.
 
 The year following, 1752, Of the Balance of Trade was published by Hume. He argued that one need not worry about the import or export of goods creating a surplus or shortage of either money or goods because an excess or shortage of money will always increase or decrease demand until equilibrium is reached. In modern economic terms, this is as equilibration through the price-specie flow mechanism.
+
+## Further Reading
+- [[Behavioral Economics]]
