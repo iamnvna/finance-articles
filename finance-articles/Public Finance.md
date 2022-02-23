@@ -1,12 +1,12 @@
 # Public Finance
 
-**Public finance** is the study of the role of the government in the economy. It is the branch of economics that assesses the government revenue and government expenditure of the public authorities and the adjustment of one or the other to achieve desirable effects and avoid undesirable ones. The purview of public finance is considered to be threefold, consisting of governmental effects on:
-1. The efficient allocation of available resources;
+**Public finance** is the study of the role of the government in the economy. It is the branch of economics that assesses the [[government revenue]] and government expenditure of the public authorities and the adjustment of one or the other to achieve desirable effects and avoid undesirable ones. The purview of public finance is considered to be threefold, consisting of governmental effects on:
+1. The [[efficient allocation]] of available resources;
 2. The distribution of income among citizens; and
 3. The stability of the economy.
 
 Economist Jonathan Gruber has put forth a framework to assess the broad field of public finance. Gruber suggests public finance should be thought of in terms of four central questions:
-1. When should the government intervene in the economy? To which there are two central motivations for government intervention, Market failure and redistribution of income and wealth.
+1. When should the government intervene in the economy? To which there are two central motivations for government intervention, [[Market failure]] and redistribution of income and wealth.
 2. How might the government intervene? Once the decision is made to intervene the government must choose the specific tool or policy choice to carry out the intervention (for example public provision, taxation, or subsidization).
 3. What is the effect of those interventions on economic outcomes? A question to assess the empirical direct and indirect effects of specific government intervention.
 4. And finally, why do governments choose to intervene in the way that they do? This question is centrally concerned with the study of political economy, theorizing how governments make public policy.
@@ -14,7 +14,7 @@ Economist Jonathan Gruber has put forth a framework to assess the broad field of
 ## Overview
 The proper role of government provides a starting point for the analysis of public finance. In theory, under certain circumstances, private markets will allocate goods and services among individuals efficiently (in the sense that no waste occurs and that individual tastes are matching with the economy's productive abilities). If private markets were able to provide efficient outcomes and if the distribution of income were socially acceptable, then there would be little or no scope for government. In many cases, however, conditions for private market efficiency are violated. For example, if many people can enjoy the same good (the moment that good was produced and sold, it starts to give its utility to every one for free) at the same time (non-rival, non-excludable consumption), then private markets may supply too little of that good. National defense is one example of non-rival consumption, or of a public good.
 
-"Market failure" occurs when private markets do not allocate goods or services efficiently. The existence of market failure provides an efficiency-based rationale for collective or governmental provision of goods and services. Externalities, public goods, informational advantages, strong economies of scale, and network effects can cause market failures. Public provision via a government or a voluntary association, however, is subject to other inefficiencies, termed "government failure."
+"**[[Market failure]]**" occurs when private markets do not allocate goods or services efficiently. The existence of [[market failure]] provides an efficiency-based rationale for collective or governmental provision of goods and services. Externalities, public goods, informational advantages, strong economies of scale, and network effects can cause market failures. Public provision via a government or a voluntary association, however, is subject to other inefficiencies, termed "government failure."
 
 Under broad assumptions, government decisions about the efficient scope and level of activities can be efficiently separated from decisions about the design of taxation systems (Diamond-Mirrlees separation). In this view, public sector programs should be designed to maximize social benefits minus costs (cost-benefit analysis), and then revenues needed to pay for those expenditures should be raised through a taxation system that creates the fewest efficiency losses caused by distortion of economic activity as possible. In practice, government budgeting or public budgeting is substantially more complicated and often results in inefficient practices.
 
@@ -47,9 +47,9 @@ Government operations are those activities involved in the running of a state or
 
 ## Financing of government expenditures
 Government expenditures are financed primarily in three ways:
-- Government revenue
+- [[Government revenue]]
   - Taxes
-  - Non-tax revenue (revenue from government-owned corporations, sovereign wealth funds, sales of assets, or seigniorage)
+  - [[Non-tax revenue]] (revenue from government-owned corporations, sovereign wealth funds, sales of assets, or seigniorage)
 - Government borrowing
 - Money creation
 
@@ -74,6 +74,8 @@ There are various types of taxes, broadly divided into two heads – direct (whi
 - Personal income tax (may be levied on individuals, families such as the Hindu joint family in India, unincorporated associations, etc.)
 
 ### **Debt**
+- Main article: [[Government Debt]]
+
 Governments, like any other legal entity, can take out loans, issue bonds, and make financial investments. Government debt (also known as public debt or national debt) is money (or credit) owed by any level of government; either central or federal government, municipal government, or local government. Some local governments issue bonds based on their taxing authority, such as tax increment bonds or revenue bonds.
 
 As the government represents the people, government debt can be seen as an indirect debt of the taxpayers. Government debt can be categorized as internal debt, owed to lenders within the country, and external debt, owed to foreign lenders. Governments usually borrow by issuing securities such as government bonds and bills. Less creditworthy countries sometimes borrow directly from commercial banks or international institutions such as the International Monetary Fund or the World Bank.
